@@ -1,0 +1,18 @@
+
+This section discusses the approach we used to extract textual features from app
+reviews. Specifically, it consists of two steps:
+
+\begin{enumerate}
+\item \textbf{\textit{Preprocessing}}: all terms contained in our set of user reviews are used as an information base to build a textual corpus that is preprocessed  applying stop-word removal (using the english standard stop-word list) and stemming (English Snowball Stemmer)  to reduce the number of text features for the ML techniques. The output of this phase corresponds to a Term-by-Document matrix  \textit{M} where each column represents a sentence and each row represents a term contained in the given sentence. Thus, each entry \textbf{M$_{[i,j]}$} of the matrix represents the weight (or importance) of the i$-th$ term contained in the j$-th$ sentence. 
+\item  \textbf{\textit{Textual Feature Weighting}}: words are weighted using the the \textit{tf} (term frequency), which weights each words \textit{i} in a review \textit{j} as:
+$$ tf_{i,j} = \frac{ rf_{i,j} }{ \sum_{k=1}^{m} rf_{k,j}} $$
+where  \textbf{rf$_{i,j}$} is the raw frequency (number of occurrences) of word  \textit{i} in review  \textit{j}.  
+\end{enumerate}
+ 
+We used the  \textit{tf} (term frequency) instead of  \textit{tf-idf} indexing, because the use of the inverse document frequency (idf) penalises too much terms appearing in many reviews \cite{paper:IR1992}. In our work, we are not interested in penalising such terms (e.g., ''fix'',''problem'', or ''feature'') that actually appear in many reviews because they may constitute interesting features that guide ML techniques in classifying sentences containing useful feedback from the software maintenance and evolution perspective.
+The weighted matrix \textit{M} represents the output of this phase and the input for ML strategies as described in the Section \ref{sec:ml}.
+
+
+
+
+

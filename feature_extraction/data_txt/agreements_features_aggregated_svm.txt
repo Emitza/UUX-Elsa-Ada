@@ -1,0 +1,2928 @@
+-1	view PDFs
+0	price $450
+-1	upload images
+-1	scrolling
+-1	open file
+1	version prior to this one
+0	copies of PDF files
+1	booking a room
+0	dining
+-1	crash-prone
+-1	Update
+0	share recipes
+-1	rename files
+1	pictures just come to you 
+-1	opening a pin
+-1	update
+-1	open
+-1	open my PDFs, Docs
+-1	bugs
+-1	performance
+-1	jam up
+1	less messy
+1	Very user friendly
+-1	latest update
+-1	extra space
+0	calender
+-1	speed
+1	picture filing
+1	cabinet
+1	needs improvement
+0	find attractions and hotels
+1	find hotels
+1	collect all the pieces of information
+-1	search
+-1	Downloading
+1	Ability to highlight
+1	Ability to swipe through notes
+-1	syncs
+-1	spelling
+1	edited
+0	Access to my files 
+0	edit office files
+0	share files
+-1	share folders
+-1	view files
+0	add flag of Pakistan
+-1	moving parts
+-1	piggies game
+-1	Add tap to load or swipe down
+-1	pin the things
+1	watch as other people enjoy my pinning
+0	Addictive
+1	adding tags
+1	easy retrieval
+1	classifying
+-1	levels
+-1	update it will not open
+-1	manual upload
+-1	cannot access
+-1	upgrades
+-1	can't even get into my account
+-1	latest update
+-1	 level 22-2
+0	desktop version
+-1	update
+-1	IOS7
+-1	photos were deleted
+1	fashion ideas
+1	info
+-1	multiple accounts
+1	photos and files synced 
+1	reminders, notes and receipts in one place
+-1	worlds crash except the first one
+0	Frozen Screen
+1	calling up notes
+-1	notebooks are empty
+1	tools
+-1	rename things
+1	decorating pictures
+1	force a sync
+0	syncing
+1	info
+1	interface
+0	media player
+-1	categorizing
+-1	responsive on top half of the screen
+-1	swipe through images
+1	get more feedback
+1	web integration
+-1	export into pages 
+1	get photos from phone to computer
+1	preparing a menu
+-1	stop auto loading of images in feed section
+-1	pops up to rate
+-1	open another board
+-1	slows down
+-1	Daily Rewards Power Up/Slot Machine
+-1	Power Up/Slot Machine
+-1	the play, re, fw controls
+1	finding a hotel
+-1	change names folder
+-1	change names of files
+-1	 rename files
+0	individual resort map
+0	ability to highlight/edit PDF's
+-1	copy and move files
+-1	undo option
+1	new interface
+0	incorporate a doodling
+0	doodling function
+1	offline access
+-1	add videos
+0	navigating
+-1	rename files
+-1	button for it is right under the pause button
+-1	delete function
+-1	dropbox interface
+-1	new tag section
+-1	same view in landscape mode
+0	rate different categories
+-1	load
+-1	layout
+1	find fun things to do
+1	find good food
+1	without advertising
+1	info
+1	travel tips
+0	photos as a pin
+1	upload photos
+0	helpful
+1	sharw images
+1	sharw videos
+1	freindly to use
+0	Free
+-1	updating
+0	saved searches
+0	sort pictures
+0	sort video
+1	find
+1	street maps
+1	metro guides
+0	sharing files
+1	desktop integration
+1	help me with ideas for parties
+1	text capabilities
+-1	load
+0	change settings
+0	customize/add pictures to your boards
+-1	trouble reaching evernote server
+-1	notes on the map filtered by tag
+-1	login
+1	photos
+0	 tag photos
+0	tag video
+-1	subcategories
+0	latest version (5.2.1)
+-1	red bird directional targeting
+-1	red bird
+1	voice recognition
+-1	opening notes  
+-1	logged into account
+0	website
+-1	loads to phone
+-1	no data is required
+-1	cut&paste
+0	email
+1	hidden items
+-1	update
+-1	everyone's favorite levels
+-1	miss Catch
+-1	Anyone can c my profile pic
+-1	attach
+-1	give detailed ratings
+-1	post pictures
+-1	see my profile 
+-1	see past reviews
+-1	open pdf files
+1	great effects on ur pic
+-1	controls
+1	synching
+-1	level selection
+-1	updated to version 2.1.
+-1	search
+-1	unnecessary permissions
+-1	having my camera uploads in my Dropbox
+-1	photos in my library
+-1	copy/paste text
+-1	typing bug 
+1	sms
+-1	navigate to check rates
+-1	update
+1	editor
+1	editior
+0	increase the size videos that we send
+1	editing
+1	all things in one place
+1	editing
+1	Editing
+-1	updates
+1	explore 
+-1	controlling the quality of pictures
+0	create notes
+1	create pictures
+0	share notes
+1	share pictures
+1	diagrams
+0	share
+1	tips
+1	tool
+-1	usability
+-1	updates
+-1	uploaded HUNDREDS of photos
+0	free
+1	easy
+-1	do the powerpoint stuff 
+-1	Back button
+-1	Background gps
+-1	password for content filter
+-1	Bad job on the new level
+-1	search
+1	reading reviews
+1	writing reviews
+-1	share folders
+-1	enter type mode
+-1	difficult to get the entirety of each note to load
+0	close
+-1	group chat text message
+-1	marathi language
+0	nstable and unsupported
+-1	someone chat text message
+-1	download file
+1	add voice memos
+0	pictures
+0	tags
+1	edit pics
+1	edit
+1	share
+0	cloud service
+-1	cloud sharing service
+-1	connect iTune for alert & notification
+0	add more frame
+1	free pack
+1	info hotels
+0	information
+1	photo editer
+1	edit
+1	overall score
+1	use most recent reviews
+1	Best travel reviews  
+1	can access files from anywhere on any device
+1	keep all my important files in one place
+-1	update
+-1	animation
+1	texting
+0	hide all the icons
+0	desktop app
+1	save from the web
+1	work with IE
+0	edit notes
+-1	update
+-1	iPad 2
+1	keep in contact with people you know
+-1	crash on iPad and iPhone
+0	log in
+1	editing
+1	reformatting
+1	skitch add-on
+-1	insecure
+0	uploading things
+-1	newest update
+-1	near me now section
+-1	Downloads of favorites
+-1	access to the account
+-1	add a website
+-1	share folders
+-1	share single file
+-1	menu
+-1	music go in a playlist
+0	saved items could be viewed offline
+0	Offline Functionality
+-1	ADs
+-1	Again I have to download
+-1	it shows date failure
+0	it will not work
+-1	iOS 5 is required to use it.
+1	record voice
+1	take a pic
+-1	slow
+1	connect
+-1	download one photo at a time
+1	works on all computers
+-1	Created" or "Title" for the viewing mode
+-1	syncing
+-1	customised jpeg file 
+-1	design
+-1	shock bird
+0	camera album
+-1	cannot add recent photos from my album
+-1	New level
+-1	performance
+-1	new level
+0	advertisements
+-1	location
+-1	wish it didn't steal all of your data
+-1	PASSCODE
+-1	cloud storage 
+-1	upgrade to iOS 7
+-1	bulk downloads
+-1	but easy to use 
+-1	searched by name
+-1	update
+-1	logo
+-1	add files directly from phone
+0	Facebook linking
+0	get push notifications for other shared things
+0	select and identify senders to receive emails
+0	spam filter feature
+0	Can't do w/o it
+-1	Can't even aim the birds
+-1	can't see the whole screen
+-1	install on IOS 6 devices
+-1	install the update
+-1	files update
+0	modify file
+-1	open files
+-1	crashes constantly
+-1	read cached PDF
+-1	read your own contributions
+-1	see badges
+-1	names of many boards
+-1	upload
+-1	pop-up about push notifications
+-1	Can't use on 4s with iOS 7
+-1	Use on old iPads
+-1	vote reviews
+-1	download latest update
+-1	open any saved files
+-1	Cannot trust using it on iPhone 
+-1	log in 
+-1	a more robust interface
+-1	load a video
+0	Challenging levels
+-1	Change my screen name
+0	text color
+-1	usability
+1	calling will be easier
+1	Chat will be easier
+0	forums
+1	interact with others
+0	free
+1	Collecting
+0	Colors
+-1	come on update it and do better
+-1	pop-ups
+0	store all of my cbr and cbz files on dropbox
+-1	unusable
+1	 Conditions of the cost
+1	 Conditions of the facility
+1	 Conditions of the restaurant
+1	 Conditions of the service provided by the staff, 
+-1	Constant crashes in iOS 7
+-1	iOs 8 crashes in 30 minutes
+-1	Constant issue with confirming email address
+-1	Constant pop ups trying to sell "super birds" that
+0	cross-platform
+-1	Continuous improvement
+1	need an idea for almost anything
+0	pinning
+0	edit pictures
+1	works fantastic
+1	edit
+1	msnger
+-1	 location pinning
+-1	retrieve the pins
+-1	see own boards
+-1	pin boards
+0	ability to share a folder
+-1	Crashes
+-1	update episode
+0	Horrible      Crashes every single time I open the
+-1	Crashes
+-1	Crashes every time I try to play it
+-1	Crashing
+0	Cross. Platform
+-1	Current Version
+-1	files to update
+-1	re-login
+-1	folder refresh
+-1	app logo
+-1	freezing all the time
+-1	game is freezing
+0	media player 
+0	play of songs one after another
+1	useful
+-1	Design
+-1	iOS 7 update
+-1	update
+0	notification
+-1	text editor
+-1	update
+-1	2011 version as an update
+-1	Do not like this new version.
+-1	Update
+-1	update
+0	allow all functions to exist in an Apple environme
+1	quick diagram
+-1	memory
+1	quicker
+1	website clarity
+0	website performance
+-1	show you anything about your account
+-1	Doesn't involve or build skills
+-1	IOS6
+0	Doesn?t work AT ALL
+-1	new levels
+-1	UPDATE
+-1	missing the ability to create blockquote
+-1	missing the ability to create paragraph
+-1	missing the ability to create section
+-1	missing the ability to create subsection
+-1	Update to iOS7
+1	Photoshop
+-1	open
+-1	Downloaded update
+0	downloading speeds
+0	sync multiple photos
+-1	uploading
+-1	install
+-1	PDF in full screen view
+-1	PDF in only thumbnail view
+0	PDF reader
+1	storage and safety
+-1	accepts files ipad
+-1	support
+-1	upload our photos
+-1	upload video
+1	keep in touch
+1	Easy use
+1	accessible
+1	Easy access
+1	camera function
+0	Easy
+1	quick
+1	Easy setup
+1	access on any device or website
+1	find venues
+0	Pin
+1	Easy to search for information
+1	share information
+1	Easy to use
+1	Screen shots
+1	Easy to use
+-1	directed
+1	Easy to use
+1	Easy to use
+1	Easy to use
+1	Easy to use
+0	quick
+1	Easy to use
+1	Easy to use
+1	note-taking
+1	content
+0	tags
+-1	folders
+0	sort hotels by distance from a location/address
+1	easy to find recommendations quickly 
+1	good link with the website
+1	Easy to use
+1	Easy to use
+1	info is accurate
+1	Easy to use
+1	Easy to use
+1	Easy use
+0	excess
+1	Edit 
+1	adding new files
+1	Edit simple text files
+1	consistency
+-1	recent updates
+1	dashboard interface
+1	Editing
+1	editing
+1	Editing
+-1	effect
+-1	stops suddenly
+-1	ads
+-1	3g costs lods
+-1	move files
+-1	report
+-1	Even after the latest update.
+0	sync
+-1	messenges that are being send gets shuffled
+0	send messages
+-1	Red's Mighty Feather
+-1	latest glitches
+-1	pop up alert message
+-1	the latest update
+-1	camera uploading
+-1	EXTREMELY slow
+0	PDF viewer
+-1	user name that would be accepted
+1	accessibility
+0	store notes
+1	store pictures
+0	service
+0	notes
+-1	taking text notes
+1	Organizing Notes
+0	pictures
+0	text
+0	URLs
+-1	direction
+-1	play
+0	Every time I go to open it or play a level the aud
+-1	log on to my TripAdvisor account through Facebook
+-1	new story
+-1	Every time I try to open it, it crashes and I can'
+-1	open audio file
+-1	conntect to iTunes
+0	upload pictures
+0	access
+-1	find
+1	looks prettier
+-1	search
+-1	nothing works
+1	Excelente informacion
+1	complete package
+1	sharing of pictures
+0	add some more features
+1	Performs many tasks
+1	 good
+0	Simple
+-1	slow
+1	communication
+1	keep fashion ideas
+1	keep recipes
+1	keeping visual ideas
+1	info
+0	messenger
+1	alert ringtone
+1	notification alert
+1	connect
+1	easy to use
+1	very easy
+-1	download files
+0	upload files
+-1	Failed to upgrade
+-1	search
+1	resources
+-1	change password
+1	Fast route to culture
+1	Fast route to information
+-1	favorite
+0	iPhone
+1	editing
+-1	Fix this cause always error
+-1	view the photos
+1	honest results
+1	Feedback
+0	controls
+1	fluid
+0	File sharing
+1	share links to folders
+0	share large files with someone
+1	tag searching
+1	sorting by date
+-1	use international roaming to upload a review
+-1	remind me later waits about 5 minutes
+-1	locked up
+-1	icon
+-1	Fix crashing issues on iPod touch 4
+0	open current version 
+-1	open
+1	Ease of Use
+0	Flight tickets search
+-1	search
+-1	spell check
+0	store files
+0	able to email links out to people
+0	sending individual links to people
+-1	sync button
+0	 Forgot info link will not send anything to my ema
+1	very useful for finding lodging
+1	very useful for finding restaurants
+1	planning a trip
+-1	local storage of personal notes
+-1	slow Evernote servers
+1	shares
+0	free
+-1	 download
+1	Easy to use
+1	collages
+-1	new levels
+-1	dropbox to my phone.
+1	key info
+1	galaxy ace
+1	galaxy pocket
+1	works well on phone
+1	works well on tab
+-1	ads
+1	lg p350
+-1	Get rid of everything after Bad Piggies.
+1	share ideas
+1	share jokes
+1	share pictures
+0	share recipes
+0	information
+-1	refining your search
+-1	filters
+0	map
+-1	pan
+0	 more frames
+1	Easy to use
+-1	hide last seen
+1	editing photo
+1	 fun stuff with ur pics
+1	attach documents
+1	Good Nice
+1	edithing photo
+1	 photo editor
+0	feature allow me to send pdf file to frnds
+1	make it free for lifetime
+1	help full
+1	 makes beautiful pics
+1	fast
+1	consumes more amount of phone  memory
+1	good app to text on
+1	user friendly
+0	noting
+-1	too expensive
+-1	60mb
+1	for business owner
+1	for tourist
+1	editor
+-1	little slow
+1	concept
+-1	but notes
+-1	ipad
+0	offline
+1	design
+0	we need voice call
+1	keeping track of all kinds of stuff
+1	word processing 
+1	without the usual gun or blood violence
+1	edit
+1	read
+1	product
+1	product
+1	settings management
+1	reviews
+1	 Good reviews
+-1	processing
+-1	usability
+1	usefulness
+0	add more graphics
+1	fast
+-1	No payment
+0	free
+1	reviews section
+1	  Great Awesome
+1	free
+1	take send back
+1	texting
+0	advance to videos
+1	share ideas
+1	resourceful
+1	easy
+1	photo editor
+1	picture editor
+-1	update it , its force close
+-1	has errors loading
+-1	has errors pinning
+-1	Occasionally freezes
+-1	usability
+0	usability
+1	layout
+0	service
+-1	update
+0	rate based on which meal you would like for restau
+0	sort based on which meal you would like for restau
+1	editing
+1	planning
+-1	searching
+0	reviewing my reviews
+0	new design
+-1	new update
+-1	share a link to a specific file that has a space i
+-1	iOS 7 update
+1	user friendly
+1	edit 
+1	free. 
+1	write my reviews
+1	great information
+0	information
+0	contents
+0	effects
+-1	powers
+1	finding hotels
+1	finding restaurants
+1	decent hotels
+1	finding local gems in restaurants
+1	planning a trip
+1	road reviews
+1	get info on places
+1	 info while traveling
+1	reading reviews
+1	writing reviews
+-1	bullet
+1	clipping urls
+1	clipping websites
+1	tagging websites
+0	notes
+1	 US planning
+1	abroad planning
+-1	update
+1	new challenges
+1	graphics
+1	physics engine
+1	find restaurants
+1	Great info fast
+1	information available
+-1	levels
+0	messenger
+-1	new levels
+-1	new levels
+1	price
+1	  Great Photoshop
+1	facebook
+1	small touch ups
+1	syncs across all devices
+1	puzzle game
+0	iPhone UI
+1	Great service
+-1	search 
+0	sharing
+1	site
+-1	usability
+-1	sync
+1	move between iPhone and iPad without losing all of
+1	tool
+1	consolidate your notes
+-1	usability
+1	tool
+1	trip tool
+0	 constant emails
+1	save favourite things
+0	Green interface usability
+1	interface
+1	create
+1	editing
+1	contact people
+-1	battery drain
+-1	privacy settings
+-1	password
+0	Handy announcements
+-1	performance
+0	usability
+1	like capability
+0	quick pin
+1	locating places
+1	locating great places to stay 
+-1	moving target
+-1	new levels
+-1	building
+1	syncing with desktop
+1	syncing with iPad
+1	syncing with phone
+1	easy-to-use
+1	computer
+1	iPad
+1	iPhone
+0	upload as a option
+-1	uploading all photos
+1	enhancing  photos
+-1	scroll thru all the pictures
+0	information about location
+0	information about numbers
+0	information about web site
+1	easy to use
+-1	location
+0	map
+1	very useful
+-1	update upgrade
+-1	word search
+1	checking updates on projects
+1	sharing items
+1	pen syncs
+1	user guides
+1	find many hotels
+-1	Red's Mighty Feathers
+1	photo notes
+1	sharing
+1	web clipping
+1	note scanning
+-1	QA process
+-1	power ups
+0	Horrible update I'm furious I spent my money to ge
+-1	update on 3-7-13
+-1	MAXIMIZE THE SLIDE SHOW
+-1	MCPE maps and mods
+0	move files within existing folders
+0	additional search filter
+0	voice memo
+-1	access the folders in a different device/computer,
+-1	Dropbox server updated
+-1	positioning
+-1	Latest update
+-1	camera upload option
+-1	edited photos upload
+1	HTC 4G
+0	filters
+1	social
+1	HTC one
+1	HTC
+-1	new levels
+1	save notes
+1	organize them in notebooks
+0	pinning
+1	access all entries on computer
+1	access all entries on iPad
+1	access all entries on iPhone
+0	pins
+-1	 left column
+1	add any places
+1	review places
+1	add review
+1	various devices
+1	camera upload integrated outside of a sync.
+1	simple camera upload for my iPad & iPhones
+1	sharing stuff
+-1	page xx of xx
+-1	latest style refresh
+1	Food App
+0	respond to replies
+0	pin multiple boards
+1	see opinions
+1	reviews
+0	unable to email 
+1	place items that I want to review at a later time
+-1	uploading to survival craft a game
+1	documents password encoded
+1	review or look up documents
+-1	open in
+1	easy
+-1	new version
+-1	Read File Names
+-1	read the longer, truncated file names
+-1	locating hotels
+-1	locating restaurants
+0	locating starbucks
+1	planning vacation
+1	receive information about hotels
+1	receive information about restaurants
+0	pinning
+-1	disgusted with the newest levels
+1	easy access to reviews
+-1	contribute
+1	reviews
+1	 access files
+0	access
+-1	dropbox icon
+-1	open
+1	edit pictures in a high quality
+-1	getting a pop up
+-1	notifications for Dropbox
+-1	iOS 7 update
+-1	link my account to my atomic web browser
+1	access photos
+-1	open many of my files on my Ipad
+0	adjust names
+0	hide names
+1	look at latest entries first
+0	pin
+1	send pictures
+1	send quotes
+1	access to all my photos and videos
+1	taking space on my phone
+-1	go to the home screen
+-1	find file 
+0	search for file
+1	search pictures
+1	tag items
+1	move between folders
+-1	I can't believe Rovio went to all this trouble to 
+-1	styling as paragraph or section
+-1	style lines
+-1	use my notes
+-1	play game
+-1	open
+0	can't find a master list of reminders in the deskt
+-1	master list of reminders
+-1	Crashes
+-1	open Dropbox
+-1	open ipad
+-1	share folders
+-1	delete
+-1	update
+-1	use
+0	take a picture
+-1	open
+-1	functionality
+-1	looks
+-1	jotting notes on a sticky pad
+-1	choose a level
+-1	enter a password
+-1	icon
+-1	books cartoons,
+0	loading pics
+-1	upload pics
+-1	update
+-1	change my password
+-1	Bad Piggies
+-1	reload
+-1	upgrade to IO7
+-1	latest version
+-1	update
+-1	news feed
+0	bookings
+1	availability on computers
+1	availability on phone
+1	availability on tablet
+1	available on computers, phone and tablet
+0	ave more categories like on the website
+0	change my board cover
+0	sharing the notes
+-1	results not repeatable
+-1	kills the pigs
+-1	iPad
+0	iPhone
+-1	leader board
+-1	created the file like a document 
+-1	download a file and open it 
+-1	flight search doesn't work
+-1	downloaded an update
+-1	flight search
+1	maps worked even without using data
+1	access my own reviews
+1	puzzles
+1	emailing right from Evernote
+1	web clipper
+1	Web clipping
+-1	Pro version
+-1	logon
+1	copy from penultimate straight to Evernote
+1	interface
+-1	syncing
+-1	new levels
+0	recommendations
+-1	filter by brand name
+-1	search
+1	finding hotels
+1	reading reviews
+-1	upgraded to iOS 7 
+0	view html files as web pages
+-1	click on the hotels pictures
+-1	pop up
+-1	logo screen
+1	 post my thoughts
+0	free
+-1	15 min cap on streaming
+-1	pay for premium
+-1	new version
+-1	 upload all the pictures to a named folder
+1	interface
+-1	put different notes into different notebooks
+-1	I hate it so much I don't want to give it
+-1	power ups bloat ware
+0	support older IOS
+-1	premium new advertisement 
+-1	rio
+-1	refreshing feed
+0	sharing files
+0	sharing files
+-1	camera upload
+-1	Reuploads
+-1	full screen
+-1	glitches
+-1	iOS 7
+-1	re-downloaded angry birds on an I-phone 4
+-1	program
+0	new layout
+1	all my devices
+0	note
+-1	search
+1	syncing docs
+-1	uploading my photos
+0	 instant text messages of reminding me of my "dail
+-1	daily rewards
+0	syncs
+1	user friendly
+0	No standalone mode
+-1	startup login
+-1	drop box files to sync iphone ipad
+0	new version
+1	have the app on my phone and iPad
+0	filter by categories
+-1	open the files in other programs
+-1	to move updates files into a folder.
+-1	numbers
+1	info
+0	information access
+-1	the review has been removed
+-1	Open in Dropbox
+-1	save on your mobile
+1	sync across all devices
+-1	Open In
+-1	can't open it on my iPad
+-1	new update
+-1	update
+-1	ratings on hotels
+1	ratings on places
+-1	PDFs out
+-1	loading bar
+0	indent
+0	calendar integration
+0	sub folders within stacks
+0	 change the name of pictures and documents through
+1	edit your word documents
+-1	Push notifications
+-1	trying to get to one of my file
+-1	save to camera roll
+-1	outline
+1	interface
+0	options
+0	take pictures
+1	chat
+1	I like it
+1	submitting reviews
+1	gives you more info about the area
+1	info about the area
+-1	WAV files only load and play 
+-1	wifi connection
+1	real reviews
+1	automation
+1	subject line
+1	download drop box
+1	share pics
+1	report
+-1	space
+-1	new update rovio
+-1	page preview feature
+-1	PDF update
+1	UI new version
+-1	synchronized
+0	synchronization with website
+0	support zip files
+1	chat
+1	share music
+1	share video
+-1	slow
+1	hotels
+1	restaurants
+1	old color scheme
+0	displaying (divisions and search)
+1	upgrade to pdfs (divisions and search)
+0	 loaded documents
+-1	ALL of my files are missing
+-1	crashing
+-1	password reset
+0	textfonts
+0	where are the colors of the textfonts
+-1	latest update
+0	 pinning
+1	find
+0	more levels
+-1	new update
+-1	new level
+-1	crashes
+-1	new levels
+-1	new update
+-1	Open GL 2.0
+-1	background sound
+0	share files
+0	iPhone
+1	photos backed up automatically
+0	photos backed up not having to keep them on my pho
+1	iPad
+1	iPhone
+1	Easy to use
+1	Easy to use
+1	stable
+0	photos
+1	create pictures
+0	cloud option for all devises and all file types
+1	 password lock before accessing
+0	speed
+0	pasting notes
+1	advisor signs
+1	post it notes without the post its
+-1	syncs
+1	access your notes from anywhere
+1	ability to search for bargains in travel
+1	ability to search for bargains in lodging
+1	sync on all of computers
+1	synchrd
+1	audio files
+1	inline photos
+0	text
+1	web-clips
+1	document photo
+1	edits
+1	share picture
+1	upload
+-1	update
+0	sync my notes
+1	easy to use
+0	wish more color
+0	highlight section
+-1	videos upload
+-1	moving targets
+1	UI
+1	new design for iOS 7
+-1	new levels
+-1	Daily Reward
+-1	Reds Mighty Feathers
+1	PC version
+1	redesign
+1	variety of levels and birds
+-1	levels
+0	website
+1	edit photo
+1	robustness
+0	create bookmarks in PDFs
+0	highlight words in PDFs
+0	make comics
+0	add coloring bottle in draw menu
+0	add some more clear tracing image
+1	reviews
+1	available for every site visited
+0	edit picture
+-1	 iOS7
+1	like
+-1	save favorite places
+-1	upgrade
+1	express
+-1	download
+1	access any file
+-1	share
+1	reviews
+1	canvas HD
+1	editor
+-1	usability
+-1	iOS 7
+-1	start
+-1	save the file
+1	reviews
+0	have to enter numerous towns and do numerous searc
+-1	asking me to connect to iTunes
+-1	view pdfs
+0	streaming support for media files
+0	I paid for it now its free?
+0	I paid for these games, this wasn't suppose to hap
+0	locate
+-1	search
+-1	level
+1	clarity of the pictures
+1	chatting
+0	format notes
+1	integration with other SaaS tools
+1	Dropbox update design
+-1	levels
+-1	lost all my notes on the upgrade
+-1	syncing PDF
+0	FREE
+1	review
+-1	lord of the rings
+1	accessible
+0	reviews on the fly
+0	provide reviews
+1	best gud
+0	quieter areas to go to
+-1	ads
+-1	push notification
+-1	asking to connect to iTunes
+-1	work on my Ipad
+-1	launch
+-1	log in ipad
+-1	back up for my photos
+-1	point target
+-1	new red feather update
+-1	update
+0	dining recommendations
+0	hotel recommendations
+1	find
+0	pin
+-1	Viewing PDF on iPad
+1	Note taking
+1	reading PDFs
+1	Recording
+1	syncs to all devices
+1	to do lists
+1	web clipping
+1	use for everything
+0	post reviews
+1	platforms
+0	used on iPad
+-1	used on iPhone
+0	used on MacBook
+0	note
+0	notes
+1	look for places near
+0	save
+1	store all sorts of data
+0	syncing files
+1	TAKE NOTES
+1	WRITE JOURNAL
+-1	PDF viewing
+0	supports PDF markup
+1	researching hotel options
+1	researching things to do
+1	Site
+-1	difficult to look at my saves
+-1	look at saves
+1	reviews
+0	notes
+1	find hotels
+1	find restaurants
+1	edit
+1	keep track of everything
+1	organize
+1	easy retrieval
+0	viewing
+1	recipes
+1	voice memos
+0	notes
+0	Send to Dropbox option
+-1	transfer files 
+1	reminder system
+-1	view .xls files ipad
+-1	red' feather
+1	overwritten notes
+1	new web interface
+1	web interface
+-1	"what's nearby" when you're already scrolling down
+1	iPad
+-1	red's mighty feathers
+-1	levels
+-1	I want my eagle back!!!!
+-1	old angry birds back
+-1	old version
+0	share my files
+0	send a link to people of an entire folder
+0	Pin
+1	Tool
+-1	browsing other hotels
+-1	bubble bird
+0	Favorites
+-1	keyboard would pop up without any reason
+-1	the screen and cursor would jump to the bottom of 
+-1	toggle check mark
+0	I wish I could delete them.
+0	email documents from Dropbox as attachments
+0	change pin cover photos
+0	more adjustments
+0	rearrange boards
+-1	INSTRUCTIONS
+0	interface a bit different
+0	'move pin' button
+0	 increase camera upload speed
+0	save Notes from the home page to Dropbox
+0	scroll bar
+0	swipe
+0	increase the text size
+0	undo button
+0	multi- layer nesting
+0	file at a time
+0	share a complete folder
+-1	password has to be reset
+0	option to reply directly from my Gear
+0	find attractions
+1	find hotels
+1	find restaurants
+-1	new music
+0	new soundtrack
+0	put a folder as favorite
+0	putting all the files inside this as favorite too.
+-1	bots on my network
+0	text color
+0	have at least 5 GB of space
+-1	Saved photos
+1	editing
+1	reading
+1	find places
+1	read reviews
+-1	photos to back up
+-1	upload photos
+0	browse
+-1	updates
+-1	update
+-1	"Y" for foodie trips
+-1	International and tourist locations
+0	Data
+-1	music
+-1	moving my files
+0	information
+1	reviews
+-1	download
+-1	view file
+-1	ios 6
+-1	ipod 4th
+-1	open most excel files 
+-1	reds feathers
+0	make another board
+1	access all my files
+-1	space
+0	website
+-1	deleting a note
+0	notes
+1	professional
+0	 rating
+-1	upload
+-1	Icon
+1	great for artistic project
+1	great for other creative tasks
+1	Ideas
+-1	Search
+-1	searches
+0	see my filled in fields of the Word forms
+1	 text a pin or the link to friends that aren't pin
+1	text a link to friends
+1	text a pin to friends
+0	zooming in
+-1	"New Coke" effect
+0	select
+0	create docs
+0	support multi-platform user
+1	contact support
+1	interface
+1	find images
+-1	upgrade
+1	info
+1	retrieve it through a number of different tags
+1	store lots of information
+-1	If you see a large "play" button in the middle of 
+-1	numbering
+-1	bad purchase for this windows computer user
+-1	update
+-1	Importing files
+0	type of note
+0	looking at pictures
+1	all platforms
+-1	many balances do not follow the equilibrium laws o
+-1	until the most recent update
+-1	missing video handling
+0	text entry
+-1	scroll the map
+-1	close pdf
+1	edit notebooks
+-1	ads
+-1	update
+0	increase participants in a group 
+-1	Indexing
+1	Informative
+1	ideas
+-1	new update
+0	note
+0	 it can be improved
+-1	Interesting
+-1	iOS 5.1
+-1	iOS 6 share sheets
+-1	iOS 7 glitches
+-1	incompatible
+0	iPhone 5
+-1	iOS 7, iPhone 5
+-1	scrolling
+0	iPhone
+0	kindle
+0	Mac
+0	Ironically, they just made this game "free"... coi
+1	new design iOS 7
+-1	syncs
+0	UI
+1	selection tool to edit and work with image parts
+0	notes
+-1	share folders
+-1	share individual photos
+1	loads quickly
+-1	install
+1	synchs
+1	synch
+-1	keep your progress other devices
+-1	crashes
+-1	crashes when I click on a level
+0	starred items feature
+-1	starred items in memory
+-1	location service
+-1	red mighty feathers
+-1	TROJAN VIRUSES
+0	vast amount of data
+-1	find location
+-1	ads
+1	has most of ur basics
+1	UI
+0	great features
+1	photos
+1	restaurants
+1	hotels
+-1	click to see the photos
+-1	versions
+1	great resource
+1	searching and getting personnal feelings
+1	storing documents
+1	syncs automatically
+-1	new updates
+1	challenge
+-1	difficult to know how to start
+1	easy to use
+1	quite intuitive in how it works
+1	intuition
+0	reliability
+1	intuitive
+0	reliable
+1	record a meeting 
+1	 take notes
+1	it has much feathers
+1	make some perfect pictures
+1	edit pics
+1	special powers
+1	find restaurants
+1	great deals on flights
+1	great deals on hotels
+1	read multiple opinions
+-1	refine search
+-1	hotel search
+1	tool
+1	iPad
+1	iPhone
+1	quick and easy
+-1	 It is quite annoying
+1	pin your likes
+1	restaurants
+-1	sometimes get failed
+-1	taking lot of time
+1	information on activities
+1	information on hotels
+1	information on restaurants
+-1	animations
+0	share
+-1	loading screen
+-1	updating
+1	edit
+1	share
+1	 attainable goals
+1	performs well and all my devices
+-1	sync
+1	write while on the go
+1	across platforms
+-1	left bar
+-1	progress bar
+-1	sucks
+-1	upload photos
+-1	find my notes
+-1	set up
+0	upload from my iPhone
+-1	last update
+1	chat 
+1	connecting
+-1	open
+-1	open it
+-1	back to a home page
+-1	close
+0	enlarge photos
+-1	change the name of the files
+0	free space
+0	hide notebooks with a password
+0	password for secure data
+0	mark saves as seen
+0	see my saves sorted by distance
+1	recording notes
+0	get reviews
+1	email to a friend inviting them to get it give you
+1	iphone users storage
+1	access notes via the internet
+1	taking class notes on tablet 
+1	lot of clicking
+1	trip planning
+0	new .pdf viewer!
+-1	open
+-1	iOS7
+-1	searching
+1	find
+-1	find files
+0	send files as email attachments
+-1	follow people
+-1	receive the message
+1	use it on four devices
+0	organized
+0	pinned
+0	works on iPhone
+0	wokrs on iPad
+1	works on Mac
+0	Notes
+-1	advertising
+0	price
+1	easy-using
+-1	navigate
+1	characters
+-1	Red's feathers
+0	notes
+1	sync with google drive
+-1	view photos 
+1	store almost anything
+1	review an area
+0	save
+1	reading reviews
+1	writing reviews
+1	able to search for a document saved on my laptop f
+1	input audio
+1	input photos
+1	input text
+1	input URL
+1	sync
+-1	advertising
+1	news
+-1	levels
+1	take notes
+1	robustness
+1	reminders
+0	It's not being installed in Android 2.3 after fini
+1	platform to post reviews
+-1	update
+0	iPhone, iPad and MacBook
+-1	levels
+-1	when i pin something it goes up immediately
+-1	advertising
+1	really good
+1	information of hotels
+1	dragon dictate
+1	easy to use
+0	simple
+1	easy
+-1	copy pictures to clipboard
+0	download my videos
+-1	destroy things
+0	don't have to spend credit while having a conversa
+1	easy
+1	quick
+1	conversation
+1	organize documents
+1	organize images
+1	collect interests
+1	organize interests
+1	user friendly
+1	convenient to use
+1	able to switch between accounts 
+1	convenient to use
+-1	upload in background
+-1	too slow
+-1	levels
+1	info
+1	local commentary
+-1	bit slow
+1	daily reminders
+1	alarms
+-1	symbol of salut
+0	free
+-1	last online status
+1	 little icons 
+1	easy
+1	so fst
+1	very quick
+0	low data usage
+0	pin
+0	Angry birds 3.1      Its still loading and it has 
+1	share pic
+1	share thought
+1	remove text
+-1	slow
+-1	 gray bar
+-1	black screen
+-1	"plain text" format button
+-1	taking notes on a book by taking pictures
+-1	taking notes on a book textually
+1	point me there
+-1	notes do not show up
+-1	crashes 100% of the time upon startup
+-1	update
+-1	new update
+1	tool
+1	usefulness
+-1	IOS
+-1	lost all progress
+-1	version 3.1.0
+0	suggesting I share pins
+-1	"No internet connection" notification
+-1	camera upload
+1	Keep uptading
+-1	old version
+1	information in one place
+1	Keeps information
+-1	crashing
+-1	wiped my whole phone
+-1	Keeps crashing
+-1	make an account
+0	      Keeps telling me to reset my password,becaus
+-1	send email
+1	Keeps track of any and everything
+-1	performance
+-1	Last Update ios 7.0
+-1	sound stops after the screen locks
+-1	Latest release
+-1	iPhone 4s
+-1	update
+-1	Latest update
+-1	Videos stopped playing
+0	view changes to files
+1	review on the go
+-1	usability
+0	eedback how is everyone experience
+-1	upgrading
+1	account created
+0	pictures uploadin
+0	maps
+-1	Logging out and logging back
+-1	repetitive
+0	Rovio
+-1	limits of what I can pin
+0	more levels
+1	information
+1	editing
+1	look up the specific areas
+1	put outlook emails in it
+0	find reviews on hotels
+1	find reviews on restaurants
+1	ideas
+1	repeated items
+0	save
+1	ideas
+0	recipes
+0	pin
+1	access those pins
+1	easy to use
+1	decorating ideas
+1	online scrap board
+-1	updated
+1	easy to use
+0	navigate
+0	quality of the pictures
+-1	lags and errors
+1	finding
+0	saving
+0	take picture notes
+0	Saved trips
+0	Easy to post updates
+1	love the ability to post stuff
+1	Very easy to use
+1	boxes
+1	italics
+0	connectivity
+-1	syncing
+1	multi-platform
+-1	sync
+1	info
+0	information 
+1	read the reviews
+1	interface
+1	new interface
+1	new UI
+-1	not whatever was just released with the new update
+-1	share this pin
+0	website
+1	travel info
+1	find
+1	reviews
+0	search engine
+-1	 iOS 7 update
+-1	annotations on PDFs
+0	browsing
+1	Love the smileys
+1	support for password protected MS Office docs
+1	user pics
+1	user reviews
+1	keep all things
+1	user friendly
+1	product
+0	birds
+0	Pin it
+-1	search options
+0	big screen
+1	find
+1	synchs
+1	simply
+1	space
+1	free
+0	add more clip art
+1	add more so sticker
+1	fast
+0	simple
+0	pinning
+-1	slow
+0	sync
+0	angry birds G.I joe version
+0	Batman levels
+0	filters
+-1	levels
+-1	negative review
+-1	upgrades
+-1	Mark favorites at the folder
+1	Amazing effects
+1	Simple to use
+-1	Maximizing space
+-1	start a new note
+0	colored notes
+-1	rich text with proper formatting
+-1	slow
+1	making the info you need easily available
+1	optimize its use
+-1	freezing up
+-1	doesn't even work
+-1	'popular' section
+-1	top 10
+1	Mobile access to the forums
+-1	updates
+1	website version
+-1	gray screen
+1	high perfomance with android old version
+1	Much better place to store all those notes
+0	navigate
+0	navigation
+1	Multi platform support
+-1	slow
+0	go back and forth between accounts
+0	Multiple Sign In's
+-1	Music player
+-1	play music
+-1	Music load
+-1	play song automatically
+1	Easy
+0	usability
+0	uploading a bunch of photos and videos from the da
+1	add reviews
+1	read reviews
+1	files are accessible
+0	Forums
+-1	not downloading
+1	Evernote pen
+1	Evernote pen
+-1	open
+0	high score
+-1	Mighty Eagle
+-1	Space Eagle
+-1	app does not upload my data until I soft reset the
+-1	Mac OS X version
+1	usefulness
+-1	reply to messages
+-1	inbox
+-1	some stages can be exceedingly difficult 
+-1	mighty eagle
+1	attractions
+1	Easy to use
+1	restaurants
+-1	Videos loading
+-1	menu to navigate
+0	smoke
+0	information on golf courses
+-1	set limited to how  much space it uses on my phone
+0	Need to fix!  Crashes & hangs
+0	forward multiple documents
+0	opening documents individually
+0	opening folders individually
+0	select multiple documents
+0	select multiple folders
+-1	functionality
+-1	move to folder
+1	cloud sync feature
+0	call service
+-1	update
+-1	Needs Update
+-1	new levels
+-1	music
+-1	upload of photos and videos
+1	design
+-1	tag lookup
+-1	design
+0	hotel price search
+0	New interface
+-1	New iOS7 style
+-1	New levels
+-1	New levels
+-1	New levels
+-1	update
+-1	crop feature
+-1	New update is terrible
+-1	New update
+-1	look at all the pins
+-1	update
+-1	New updates force close
+-1	New version
+-1	New version
+-1	New versions
+-1	Newest version menu
+-1	Near Me
+0	clear cache option
+1	groupchat supporting up to 30
+1	voice-call via internet
+1	result is good
+1	easy to use
+-1	red eye optn 
+1	share pdf files
+1	find things
+1	edit
+1	design
+1	Nice for travel
+-1	making updates
+-1	viewing
+-1	Angry Birds Lord Of The Rings
+1	chting
+1	photo editor
+1	 access
+1	looking for restaurants
+1	looking for safe places
+1	UI
+-1	update
+1	platform
+1	reviews
+1	easy to use 
+-1	my phone or ipad
+0	Galaxy Gear support
+1	handle
+0	navigate
+0	navigation
+-1	performance
+1	UI
+-1	file list
+-1	full screen
+0	add other output formats
+-1	photos or videos will load
+-1	functioning of folders
+-1	uploading
+-1	 new updates
+-1	No notes showing up
+-1	No Saved Trips
+-1	storage
+-1	sync
+0	un starred files
+-1	None of the new flags added are working
+-1	open
+-1	gameplay style
+-1	update
+-1	synchronise
+-1	back up
+-1	wifi
+-1	download files
+-1	showing located areas
+-1	suggesting located areas
+-1	angry birds tips
+-1	recent update
+-1	announcements
+-1	ads
+0	user friendly
+-1	usability
+-1	working with iOS7.0.3
+1	messanger
+-1	size limit
+-1	text-friendly organization
+0	graphics
+-1	icons
+-1	shiny interface
+-1	iOS7
+-1	iPad2
+0	Notes
+1	organized in one notebook
+1	reviews
+-1	last update.
+-1	near by
+1	read and work on documents
+1	read huge files on the iPad
+-1	looks terrible
+-1	getting a sync error
+-1	notes vanish randomly
+-1	Sync
+-1	refreshes at start up
+-1	gameplay
+-1	mapping
+1	Nexus 5
+-1	select all notes, it opens to a specific note and 
+0	file is added
+-1	puch notification in iphone 
+1	read
+0	see
+1	watch
+-1	need to give it a minute
+-1	speeds
+0	shockwave
+0	filters
+-1	updating
+0	preview word, excel and pdf documents
+1	photo editor
+-1	can't add notebooks to the shortcut section
+-1	can't create a new notebook in the app mode
+-1	interface is rigid
+-1	design
+-1	see th entire file name
+1	share excel documents
+1	view excel documents
+-1	Dropbox On the phone
+-1	last update
+-1	go back
+-1	new update
+-1	notebook/multiple tag search
+-1	downloading file
+-1	favorite
+-1	premium
+0	import multiple photos to camera roll
+-1	import photos to camera roll
+-1	load mp3s or WAV files over data
+-1	full screen mode
+1	find lots of interesting and lovely things
+1	store lots of interesting and lovely things
+-1	bullets
+-1	outlining
+-1	what's near
+-1	filter
+0	automatic download a photo to my phone's camera ro
+0	automatic photo upload 
+1	Automatic photo/video upload
+-1	automatically re-upload it to Camera Imports
+0	read long filenames
+-1	change the picture
+-1	access my mp3, aiff, and WAV files
+-1	bugs
+-1	icons on upper left of screen
+-1	freezes and shuts down
+0	sliding logo
+0	updates faster
+-1	Opening notes
+1	reviews
+-1	star ratings
+1	auto upload folder
+1	basics
+1	best friend abroad
+1	file can be accessed
+1	upload any file 
+1	maneuverability
+0	usability
+-1	Payements
+0	free
+1	PC, laptops , droid, tablet, two iPhones
+0	view PDFs, Word docs, and videos
+-1	new update
+-1	effects
+1	editing
+0	more interesting frame
+1	project planner
+1	recipe filer
+1	travel options
+1	mobile devices
+-1	passwords
+-1	Personal notes
+0	Map
+1	Photos
+1	reviews
+1	photo editor
+1	photo editor
+1	editing
+-1	picture download
+1	easy to use
+0	editing
+1	making new boards
+0	Pinning
+0	sending
+1	postings
+1	easy way to post
+0	save photos
+1	save recipes
+1	save websites
+-1	landscape
+0	more clip arts
+0	block pins
+-1	animated GIF
+0	GIF support
+0	ability for gifs to play
+0	ability to rename files
+-1	white dotted path
+-1	old viewer
+-1	trajectory line
+-1	older music
+-1	background music
+-1	bad piggies
+-1	Star Wars Bad Piggies!
+-1	wont open up to the effects
+0	resize the column boundaries
+-1	new color splash effect
+-1	uninstalls automatically
+-1	Please fix this!
+-1	levels like in the beginning
+-1	go back to the formula
+-1	new update
+-1	go on birds of a feather it keeps taking me out
+0	view thumbnail larger
+0	viewing in the photo folder
+0	increase the upload limit
+-1	compatible for iPod 4th
+-1	storage system for photos and video
+-1	back "home" button
+0	redesign
+-1	level
+1	iPad
+-1	support iOS 6
+-1	new theme music
+-1	releasing new levels
+-1	see all around area
+0	add the function to switch between accounts
+-1	updates
+-1	slow
+-1	Compatibility
+1	Design
+1	user interface
+-1	Need updates for Android
+-1	pop-ups
+-1	design
+1	practicality
+1	user experience
+-1	ads
+-1	Upload Here
+1	reviews
+-1	upgrade
+-1	Priceless
+-1	update
+-1	bad piggies
+-1	purchase
+-1	Push the button on the reviews
+1	FORMATING function
+-1	file name display
+-1	flexibility in the width of the display 
+1	Put the info on one device and you have it on all 
+1	most used notes
+1	most used tags
+-1	update
+-1	new gameplay
+-1	separate game
+0	save
+1	reviews
+0	recommendations
+1	Real reviews
+1	creative
+-1	levels
+1	physics based game
+-1	new leaderboard
+0	distance from current location
+-1	time consuming
+0	free
+-1	upgrade
+-1	the game would auto send me to other websites.
+-1	Red feathers flying
+-1	Reds feathers
+-1	sync
+1	location-aware
+1	reviews
+-1	Requiring iOS 7
+-1	searching
+0	tags
+1	Reviewers
+0	Reviews are read by tripadvisor first
+1	Reviews
+1	reviews
+-1	adds
+1	Editing
+1	online allow workarounds
+-1	Reds Mighty Feathers update
+1	Runs smoothly
+1	Galaxy III
+1	Runs
+-1	shots
+1	editor
+-1	problem while attaching audio files
+-1	problem while attaching image
+-1	problem while attaching video files
+-1	Says to update, but won't!
+1	Seamless integration
+-1	Search
+-1	Search
+0	Search engine
+0	Search file contents
+-1	Seeing the full names
+1	comments
+1	Separate notebooks
+1	sort folders
+1	annotated and tagged images clippings
+1	articles
+1	news reports
+1	take notes
+1	organized
+-1	Select all
+-1	view animated gif files 
+-1	QC
+1	combined with Ifttt to move post record things on 
+-1	Sharing
+-1	take me longer to find out I could see other pics 
+-1	able to mark entire folders as favorites
+-1	save to mobile device
+-1	minor limitations
+-1	actions
+-1	strategy
+1	Simple to use
+1	easy note taking
+1	Simple note taking
+1	Transferring certain photos from phone to computer
+0	File names illegible
+-1	Since I signed out of it, every time I launch AB i
+-1	splash screen
+-1	new level
+-1	update
+-1	iOS 7 update
+-1	viewing files
+-1	new update
+-1	view my XLS files on iPad
+-1	copying files
+-1	MOVING files
+-1	backup to Dropbox
+-1	update
+-1	open JPEG
+-1	latest update
+-1	 latest update of Evernote iOS7
+-1	the spell check feature
+0	export picture
+0	learning
+1	simple design
+0	Smart
+0	up to date
+0	sync
+1	easy to use
+1	customize a photo
+1	easy to use
+0	save
+1	easy to use
+1	rate places
+1	easy to use
+-1	star
+-1	slow to load
+-1	slow when playing
+-1	so many commercials
+-1	 shared folders
+1	ability to store files only on the cloud
+1	accessibility of files
+1	backed up in real-time
+1	iPhoto import
+1	photo aggregation on the website and mobile
+0	useful information.
+1	simple to use
+1	ideas
+-1	open a level
+1	reliability
+0	robustness
+1	levels were tough
+-1	new levels
+-1	updates
+0	storage
+-1	menus
+0	usability
+0	see are the albums I created on Dropbox.com on my 
+0	syncing
+-1	Sometimes editing notes is slow
+-1	Sometimes gets really hard
+-1	listened to mp3 files
+-1	doesn't open
+-1	going back and forth between notes or notebooks it
+-1	Sometimes it spools
+-1	not on wireless network
+-1	green pigs can be hard to get
+0	group chat
+0	sharw Songs
+1	editing
+1	transporting pictures
+0	A.B. Star Wars
+-1	A.G. Space
+-1	minimize
+-1	position the bird
+-1	triforce
+-1	UPLOAD VIDEOS
+1	exploding birds
+-1	iOS7
+-1	cartoons
+-1	landscape
+-1	pop up adds
+-1	change file names
+-1	Camera Upload mode
+-1	Gallery
+-1	long file name support on iPad
+0	font sizes
+0	do not open on iphone 4 iOS5
+-1	little piggies
+-1	stupid
+-1	Sub-folders
+-1	Sub-notebook
+1	huge user base
+1	huge diversity of focus areas
+-1	Sync Now
+1	accessing info
+1	saving info
+0	Suggest graded levels of subscription
+1	editing
+1	oparate
+1	easy to add notes still
+1	easy to use
+1	simple layout
+1	useful
+-1	Support
+-1	watching toons
+-1	in one place first
+1	editor
+-1	switch off timestamps
+-1	Syncs
+0	Syncs
+-1	Syncs
+-1	Syncs
+0	location
+0	Tags
+-1	Takes a long time to master each game.
+-1	very slow
+-1	Takes forever to apply effects
+-1	filter options
+-1	load
+-1	search
+0	add offline mod
+0	save one video in my iphone,and after that play it
+0	notes
+1	reviews
+-1	works just like the website
+1	transfer photos from my iPhone to laptop
+-1	levels
+1	access and take notes on phone
+1	access and take notes on tablet
+1	ability to pick up and retry 
+-1	search notes
+1	search PDFs
+0	The ability to sort and organize by color
+0	sort by color
+-1	electrified bomb bird randomly appears
+-1	Search
+0	Tag
+-1	easier to use
+-1	drains your battery
+-1	gps
+-1	sorting function
+-1	last update
+-1	share via email
+-1	 keeps crashing on my iPod 4th gen ever since the 
+0	finding hotels with reviews
+-1	random crashes
+1	on-the-go reviews
+1	iPad
+-1	hotkeys
+-1	can't get into my  notes
+-1	update
+0	update since it's recent patch
+-1	not update
+-1	stuck about 3/4 of the way done
+1	voice records
+-1	automatic upload feature
+0	Messenger
+-1	Camera upload
+-1	put pictures
+-1	camera upload
+1	The card view 
+1	characters
+-1	gameplay
+1	characters
+1	storyline
+1	title music
+-1	iOS 7 Update
+-1	syncing issues
+-1	The constant interruptions and harassment's to buy
+0	content
+1	new design 
+1	saving web info
+1	saving airline itineraries documents
+1	saving e-tickets
+1	saving office documents
+0	savig documents
+1	cross-platform access to your notes on the cloud
+-1	show all files
+-1	can't check in on a location
+-1	design
+-1	Done button
+-1	folders
+-1	labels
+1	export feature phone
+0	EXPORT FEATURE
+0	export feature  videos
+1	works on pc platforms
+1	 accessing files on the go
+1	search within folders
+1	info trip
+-1	file folder UI
+1	collage
+1	editing
+1	fx
+-1	game crashed
+-1	pop ups
+-1	cartoons
+-1	game play
+-1	gameplay
+0	GPS
+1	graphics
+-1	menu pops up won't stay open long enough
+1	connect
+1	info
+1	instant syncing between computer and phone
+1	integration with Penultimate
+1	interface
+1	review
+-1	inverted colors icon
+-1	whiteout
+-1	iOS 7
+-1	iOS version
+0	upload file
+-1	latest update
+-1	latest update
+1	quick
+0	slick
+-1	latest updates
+-1	latest version
+-1	Game Center
+-1	The latest version of Angry Birds forces me to use
+1	layout
+1	load editing settings
+1	load feedback components
+-1	keep me logged in
+-1	map view
+-1	near me
+-1	iPad
+-1	subsections
+0	Paragraph headers
+-1	loaded files
+-1	version
+0	new design
+0	rename files and folders
+0	new features
+0	graphics
+0	new interface
+1	new interface
+-1	interface
+-1	strategy
+-1	new levels
+-1	new levels
+0	The new levels are not fun.
+-1	levels
+-1	levels
+0	new PDF reader
+1	UI
+-1	view video
+-1	viewing photos
+1	new UI
+1	new UI
+-1	gameplay
+-1	Bad Piggies
+-1	new update
+-1	new theme song
+-1	 new update
+-1	level
+-1	new update
+-1	update
+-1	update
+1	new interface
+-1	loads slower
+-1	search
+-1	viewing photos
+-1	 new update
+-1	update
+-1	update
+1	fifteen levels
+-1	ver.7
+-1	Sync
+0	new version
+-1	ads
+-1	new version
+-1	new version of Evernote
+-1	transfer to Word and other systems
+-1	bullet points
+-1	numbering
+-1	spacing
+-1	 show a preview of the content if the folder.
+-1	if i turn my phone sideways, the screen gets messe
+-1	4 editing choices when entering text
+1	interface
+0	ability to display long file names
+1	collaboration
+0	notes
+-1	change the cover photos on the boards
+0	date driven "to-do" or reminder
+0	have the ability or export videos to your camara r
+-1	option to download is grayed out
+1	customize the tabs
+1	slide tabs of folders
+-1	follow page
+-1	refreshed
+-1	Bad Piggies game
+-1	pigs in vehicles
+0	 tons of levels
+1	real photos
+1	Reviews
+1	real people write review
+-1	file streaming
+-1	very slow
+0	redesign
+1	navigating the options available in the area
+1	restaurant reviews
+0	forums
+1	reviews
+1	reviews are usually up to date
+1	reviews
+1	Reviews
+-1	sign in
+-1	search
+0	desktop version
+-1	search
+0	service
+-1	shockwave stuff 
+-1	star rating music
+-1	star rating thing
+-1	sync
+1	synching ability
+-1	syncing
+-1	bullets
+0	indentation
+0	numbered lists
+-1	text formatting
+1	easy to navigate
+1	wealth of information
+1	EXTREMELY useful
+1	look up something
+-1	typing
+-1	update
+1	retina display
+-1	update
+-1	update
+1	user content
+-1	user interface
+-1	upload
+1	travels seamlessly between my devices
+1	self updates
+-1	new storage space
+1	info on local eateries
+-1	sub-boards
+-1	uncontrollable birds
+-1	power ups
+-1	cartoon thing
+0	Map does not refresh after detail view
+-1	search
+-1	zoom
+0	links to see websites activities
+0	links to see websites of hotels
+0	links to see websites of restaurants,
+0	so many pop up ads that you can hardly play the ga
+1	varieties
+-1	tower defense levels
+1	reminders
+-1	slow
+-1	unreliable
+1	editing
+0	font contro
+-1	Synchronization
+-1	update
+-1	completing a level
+-1	navigate Camera Uploads
+-1	resize the file list
+0	drawing 
+1	complete
+-1	search function for notebooks
+-1	option tab
+-1	format option/tab
+-1	new version
+-1	 no skill involved
+-1	abomination
+-1	new levels
+-1	aim at other stuff instead of just the pig
+1	sync
+0	notes listed under the wrong name
+-1	very boring and require little strategy
+-1	resigned
+-1	iOS 7
+-1	all of the notes within those notebooks were erase
+1	interface
+1	lot of room ideas
+1	ideas
+-1	new process to sell post it notes
+-1	more platforms
+-1	show B&B 
+0	show small inns
+0	photos are reviewed by tripadvisor first
+-1	minecraft angry birds
+-1	upgrade
+1	iPad
+1	iPhone
+-1	open iPad
+-1	search
+1	planning activities
+1	planning restaurants
+1	planning va-kays
+-1	load all of my pictures
+1	Photoshop
+1	When to go info
+1	Overview
+1	Weather
+1	access to documents
+-1	loading my document
+0	notes
+1	record audio
+-1	features needed
+-1	icon
+-1	looks great
+-1	open
+1	connect
+-1	Can not be removed
+-1	21 levels in Poached Eggs
+0	Unauthorized Charges
+1	replay value
+0	tons of levels
+-1	keeps updating
+-1	tons of action
+0	free
+-1	game
+1	collect notes
+0	notes
+0	responsiveness on iPad
+-1	search on iPhone
+-1	text file editing/creation on iPhone
+1	organizing notes
+1	across devices
+1	accurate advise
+1	accurate information
+1	accessible by any other device you have Dropbox 
+1	saved in the cloud 
+1	sync all your pictures
+1	iPhone, iPod, or smartphone
+1	usefulness
+1	very good and reliable resource
+1	on a variety of devices
+1	write about whatever they need
+-1	update
+1	 distance filter
+1	consistent users
+1	current up to date reviews
+1	find a hotel
+1	find a restaurant 
+1	more quickness
+1	smoother running app
+-1	 if it keeps telling me its installing and it is n
+-1	design
+-1	open something saved
+-1	turn off ur last seen
+-1	keeps bugging me to spend money
+-1	original levels
+1	FREE
+1	Many selections
+1	reviews
+1	productivity tool
+-1	update
+-1	level
+-1	can no longer see the photos
+-1	new episode
+0	new layout
+-1	new release
+-1	Rovio ID
+-1	pop-us
+-1	update
+-1	new update
+-1	reading PDF
+0	service
+-1	update
+-1	update
+-1	update
+-1	update
+-1	update
+0	PDF viewer
+-1	see PDF
+-1	search something nothing related to my search come
+-1	open Excel files
+-1	version no longer
+-1	ads
+-1	image attachment
+-1	piggy
+-1	Throw birds at buildings to kill pigs.. Nintendo h
+1	capture full resolution
+-1	To play one it takes you to an internet browser, t
+-1	share it with survival craft
+1	fast
+-1	Totally different game
+1	usefulness
+-1	iPad 2
+-1	levels
+-1	new update
+1	save document
+1	share with others experiences
+1	tool
+1	TripAdvisor
+-1	searches for hotels
+0	information
+1	comments
+-1	saved hotels
+-1	saved restaurants
+0	showing saved places
+-1	different animals
+-1	more power ups
+-1	instructions
+-1	automate
+1	sign in
+1	write review
+-1	camera upload enable during initial setup
+-1	Type in a name and not one board
+-1	Type in a name
+1	Ubiquitous
+0	browsing
+-1	icon
+-1	redesign
+-1	UX
+-1	navigate
+-1	user friendly
+-1	login
+1	save forum posts
+-1	trouble updating
+-1	Red's Mighty Feather
+-1	performance
+-1	Installed update
+-1	Update
+-1	iPhone 3GS support
+0	UI
+-1	Samsung galaxy S4
+1	reminders
+0	performance
+-1	Game Center
+-1	new tab-based interface
+-1	Update
+-1	Updated in real time
+-1	Microsoft word document open
+0	view documents
+-1	delete and reinstall
+-1	Updates
+-1	Upgrade
+-1	Upload videos
+-1	searches
+0	Uploads
+1	finding
+-1	Usability
+1	usefulness
+1	find local restaurants
+1	find tourist traps
+1	easily access
+1	look up restaurants
+1	research trips
+-1	open any office documents
+-1	latest updates
+-1	filter by proximity
+0	filter by proxmity
+-1	filter by rating
+-1	search cities you haven't yet reached
+-1	upgrade
+-1	this update
+-1	cannot see anything from the boards
+-1	cannot see anything from the people
+-1	Ads
+-1	searching a geographical location
+1	judge restaurant options
+1	find lodge
+-1	losing my notes 
+1	Useful
+1	discover
+-1	improved
+-1	progress
+1	Useful
+-1	updates
+-1	responsiveness
+1	User experience
+1	full of good info
+1	User-friendly
+-1	ads
+-1	usability
+1	reviews
+1	reliable
+-1	Photos upload
+-1	slow
+1	moving files without connecting to a computer
+1	info
+1	convenience
+1	easy to use
+-1	gameplay
+1	4th gen device
+1	Very easy to find how to get to your destination
+1	easy to use
+1	navigate
+1	Very easy to use
+1	very helpful
+1	easy
+1	Very Enjoyable
+1	educational
+1	entertaining
+1	Easy
+1	very helpful
+1	showing chek stesus
+1	dual sim card
+1	two number in same phone
+1	access notes from anywhere
+0	informative
+1	publish
+1	find hotels
+1	find restaurants
+1	Very helpfull
+1	check hotel
+1	check more
+1	check restaurant
+0	information
+1	Very reliable
+-1	incomplete searches for hotels
+-1	hotel search
+-1	photo paging
+-1	background uploading
+0	pload several megabyte video
+-1	slow uploading
+1	find places
+1	usefulness
+1	Very useful
+-1	usability
+1	easy to navigate
+1	Very user friendly
+1	user friendly
+-1	in-app playback
+-1	Video playback
+-1	View reviews I've written
+-1	update
+-1	update
+0	iCloud saving
+-1	filters
+-1	recent updates
+-1	open
+1	easy
+-1	white space
+0	found places eat
+-1	RESUME A DOWNLOAD
+0	display our photos
+0	restaurants rated
+0	text documents
+0	recommendations
+1	plan trips
+1	editor
+1	easy to use
+1	easy to use
+-1	mind games
+-1	introducing more updates
+-1	open
+0	one of these updates inserted adverts into the gam
+1	great aop
+-1	update
+1	ideas
+1	inspirations
+-1	music
+-1	Game Center
+0	pic download
+-1	time it takes to download pics
+1	interface
+-1	share folders
+-1	having to retype search criteria after I hit back
+-1	searching
+0	converting to plain text
+0	hi-lighting
+0	simplified HTML
+0	sorting options
+-1	much time to download
+0	edit boards
+0	move pins
+-1	load level
+-1	When I go to the 1st level, it crashes.
+-1	black screen
+-1	gray bar
+-1	work on iPad
+-1	wait so long to open it
+-1	green elephant screen
+-1	wait
+-1	dropbox folder
+-1	location
+-1	keyboard will often cover where I'm trying to type
+-1	importing things and putting it inside a folder
+-1	order things inside a folder
+-1	Mighty Eagle
+-1	draining battery
+-1	location services
+-1	placing cursor over text
+-1	first level
+-1	check marks delayed by 2 seconds 
+-1	unbalanced blocks
+-1	save as a photo
+-1	upload gif
+-1	work with gifs
+0	desktop
+1	web
+-1	search bar
+0	add the place
+-1	click around to read reviews
+-1	go back to the full
+-1	select an attraction
+-1	view pictures
+-1	When you update this app, installing sequence is f
+0	Update Error
+0	Whenever I click a level on my iPod touch, it cras
+-1	crashes
+-1	new levels
+1	reviews lost
+0	stuff lost
+-1	last level
+1	good to have
+0	document
+0	email
+0	picture
+1	edit
+-1	save
+0	 editing
+0	Which there was a way to multi check pins When edi
+-1	levels
+-1	display file content
+-1	file name
+-1	file size
+-1	preview pane
+1	access your files
+1	remotely store files
+0	Word doc files won't open iphone
+-1	White
+-1	change my password
+0	rating
+-1	levels
+-1	sign into separate Drop Box accounts
+0	support for earlier IOS
+-1	logo's colors
+-1	open in option for music files
+-1	pay money to get access
+-1	facebook login
+0	Location services
+-1	update
+-1	Navigation bar
+-1	run at startup
+-1	open
+-1	7 update
+0	handwriting
+-1	rename files
+0	vertical mode
+-1	locations of newer hotels were updated more
+0	more levels
+0	a way to save some of the photos
+0	animated smileys
+0	gps function
+1	find eat
+1	find local places
+1	find visit 
+1	stickers
+1	documents saved
+-1	latest update
+-1	open word documents
+-1	download ePub files to iBooks
+-1	new and improved look
+1	affordable upgrade
+-1	download ipod
+-1	view my excel spread sheets
+0	usability
+1	easy to use
+-1	depending upon the network connection
+-1	tools built-in
+1	exploring places
+0	Stopped working with dolphin
+-1	last update
+1	Works Excellent
+0	performance on iPhone 4
+0	document organization on iphone
+1	Works in conjunction wirh Google Drive, File Manag
+0	creating notes
+1	retrieving notes
+1	saving files for offline use
+0	help
+-1	reply
+-1	register
+-1	verification
+0	wireless keyboards
+0	age of property
+0	renovation dates
+0	helpful reviews
+1	reviews on hotels
+1	reviews on motor coach resorts
+1	reviews on restaurants
+0	oldest/ newest Pics without scrolling
+0	 grid view of photos
+0	auto upload of camera rol
+0	save my mobi files
+0	putting Due Dates on some notes
+-1	formatting
+1	color code notes
+1	alarms
+1	reminders
+0	free
+-1	minimum iOS
+0	wrote document
+-1	search results
+-1	reds mighty feathers
+-1	new update
+0	 share with others either for the purpose of colla
+1	access your materials on all of your devices
+0	download files from Dropbox to your phone
+0	select and download files at once
+0	select multiple files 
+0	add audio
+0	add pictures
+0	notes
+0	change a poor photograph
+-1	giant eagle
+0	high score
+0	pin
+-1	search
+1	send photos
+0	send videos 
+0	vote
+-1	download any videos
+-1	next button 
+-1	cluster play
+-1	play wave files
+-1	search
+-1	share folders
+0	COPY RENAME to folders and files
+-1	MOVE SHARE DEL
+1	reviews
+0	note
+1	photo editing
+-1	filtering options
+-1	views
+0	find cruises
+0	find turistic boats
+-1	levels
+-1	go back to find more points
+0	information
+1	reviews
+-1	whole screen
+-1	customer service

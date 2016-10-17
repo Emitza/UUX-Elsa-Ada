@@ -1,0 +1,66 @@
+\usepackage[pdftex]{graphicx}
+\DeclareGraphicsExtensions{.jpg,.JPG,.png,.pdf,.eps}
+\graphicspath{{img/}}    
+
+\usepackage{amssymb}
+\usepackage{ifthen}
+
+\makeatletter
+
+% this  is a easy way to comment out more lines ...
+
+\newcommand{\COMMENT}[1]{}
+
+% this  is a easy way to add and highlight new text  ...
+% just comment in/out the \tnew macro ..
+
+\newcommand{\tnew}[1]{{\bf { #1 }} }
+%\newcommand{\tnew}[1]{{ { #1 }} }
+
+% math and theorem definition
+
+\newcommand{\ndef}{\stackrel{\rm def}{=}}
+
+% this is used for draft only
+
+%\renewcommand{\baselinestretch}{2}
+
+% just to number pages in the draft
+
+\pagenumbering{arabic}
+
+% nothing i.e., no-numbering final and camera ready
+
+%\pagestyle{empty}
+
+
+\newboolean{showcomments}
+
+
+\setboolean{showcomments}{true}
+
+
+\ifthenelse{\boolean{showcomments}}
+  {\newcommand{\nb}[2]{
+    \fbox{\bfseries\sffamily\scriptsize#1}
+    {\sf\small$\blacktriangleright$\textit{#2}$\blacktriangleleft$}
+   }
+   \newcommand{\cvsversion}{\emph{\scriptsize$-$Id: macro.tex,v 1.9 2005/12/09 22:38:33 giulio Exp $}}
+  }
+  {\newcommand{\nb}[2]{}
+   \newcommand{\cvsversion}{}
+  }
+
+
+
+\newcommand\ROCCO[1]{\nb{ROCCO}{#1}}
+\newcommand\MAX[1]{\nb{MAX}{#1}}
+\newcommand\SEBASTIANO[1]{\nb{SEBASTIANO}{#1}}
+\newcommand\MB[1]{\nb{MARTIN}{#1}}
+\newcommand\GERARDO[1]{\nb{GERARDO}{#1}}
+
+\newcommand\NEW[1]{\nb{NEW}{#1}}
+
+
+
+

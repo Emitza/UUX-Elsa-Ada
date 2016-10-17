@@ -1,0 +1,1124 @@
+23,5,1,So whether they were running on a tight budget or just don't know how to make interesting software it still gets the job done.
+23,9,1,So whether they were running on a tight budget or just don't know how to make interesting software it still gets the job done.
+42,5,2,It was limited to that brands labels and a few of the big brand common labels but did not offer a good selection of other options for labels.
+42,9,2,It was limited to that brands labels and a few of the big brand common labels but did not offer a good selection of other options for labels.
+96,4,2,I wanted to remove much of the slience between tracks.CDWave automatic splitter lets you adjust the sensitivity and the split locations, as well as insert and remove splits easily and name tracks.
+96,9,2,I wanted to remove much of the slience between tracks.CDWave automatic splitter lets you adjust the sensitivity and the split locations, as well as insert and remove splits easily and name tracks.
+151,4,1,My biggest complaint on the top security software suites for the past several years: they bog down my operating system, hogging system resources.
+151,9,1,My biggest complaint on the top security software suites for the past several years: they bog down my operating system, hogging system resources.
+163,NULL,2,Watch the rebates on this software.
+197,5,3,first, and check out some of the free (and probably mostly superior) alternatives.
+197,9,3,first, and check out some of the free (and probably mostly superior) alternatives.
+208,4,2,In the mean time I was able to open up Open Office without any problems.
+208,5,2,In the mean time I was able to open up Open Office without any problems.
+208,9,2,In the mean time I was able to open up Open Office without any problems.
+267,4,2,After awhile it all wears off and the hundreds of errors compounded by viruses which should have been easier to catch get really, really old.
+267,4,1,After awhile it all wears off and the hundreds of errors compounded by viruses which should have been easier to catch get really, really old.
+267,5,2,After awhile it all wears off and the hundreds of errors compounded by viruses which should have been easier to catch get really, really old.
+267,9,2,After awhile it all wears off and the hundreds of errors compounded by viruses which should have been easier to catch get really, really old.
+267,9,1,After awhile it all wears off and the hundreds of errors compounded by viruses which should have been easier to catch get really, really old.
+277,NULL,1,Being that as it is one day I handed him my lap top.
+314,4,2,These are only a handful of things that I can teach you about.Getting Started: The First SlideWhen you create a new presentation, the first slide (the one that is there) is the title slide, where you enter things such as the title of your presentation and any subtitles, like your name or a catchy phrase that is sure to lure any clients in!Getting A New SlideThis is something that seems so simple and straightforward when you do it, but may not be the easiest thing to figure out on your own (especially if you are not comfortable with computers).
+314,9,2,These are only a handful of things that I can teach you about.Getting Started: The First SlideWhen you create a new presentation, the first slide (the one that is there) is the title slide, where you enter things such as the title of your presentation and any subtitles, like your name or a catchy phrase that is sure to lure any clients in!Getting A New SlideThis is something that seems so simple and straightforward when you do it, but may not be the easiest thing to figure out on your own (especially if you are not comfortable with computers).
+314,10,2,These are only a handful of things that I can teach you about.Getting Started: The First SlideWhen you create a new presentation, the first slide (the one that is there) is the title slide, where you enter things such as the title of your presentation and any subtitles, like your name or a catchy phrase that is sure to lure any clients in!Getting A New SlideThis is something that seems so simple and straightforward when you do it, but may not be the easiest thing to figure out on your own (especially if you are not comfortable with computers).
+329,10,2,If you want every slide to be blue, go to Format / Background and choose a color.
+332,10,1,To get out of the Master Slide, hit Close Master View on the Slide Master View pop-up.Printing Slides Versus HandoutsThis is important for all of you in college who are getting presentations for class - do you really need all of the slides to be on their own page when you print them out, or can you deal with two per page?
+333,NULL,3,How about 3 with note lines?
+354,NULL,2,As you probably guessed, you can do that for movies too (I'm assuming that you guessed from the Movies and Sounds).Testing Out Your PresentationThis is one of the most important things - you always want to see your presentation the way that other people are going to see it and not how it looks where you can type.
+378,2,3,More significant is the simpler interface: The screen is divided into Computer, Internet and Identity settings, each of which unravels myriad menus too numerous to describe here.
+378,9,3,More significant is the simpler interface: The screen is divided into Computer, Internet and Identity settings, each of which unravels myriad menus too numerous to describe here.
+399,NULL,3,Huh?
+409,5,2,For now, a cautious thumbs up!
+409,9,2,For now, a cautious thumbs up!
+410,10,1,I am a self-taught old guy who's been messing with computers for about 12 years.
+418,11,1,Every other service provider and manufacturer I have dealt with was happy to provide assistance, at least as long as the warranty was in effect!As soon as I am able, I'll consider trying the new Mac!
+418,11,3,Every other service provider and manufacturer I have dealt with was happy to provide assistance, at least as long as the warranty was in effect!As soon as I am able, I'll consider trying the new Mac!
+466,3,3,Often several minutes of clicking on toolbars will not yield the desired function.Simple point-to-point route planning, finding intersections of streets, etc., take way too much effort.After a few hours reliving the frustrations I felt when trying out DeLorme's 2000 offering, I uninstalled Street Atlas 2009 and dusted off my Street Atlas 8.0 disk.
+466,4,3,Often several minutes of clicking on toolbars will not yield the desired function.Simple point-to-point route planning, finding intersections of streets, etc., take way too much effort.After a few hours reliving the frustrations I felt when trying out DeLorme's 2000 offering, I uninstalled Street Atlas 2009 and dusted off my Street Atlas 8.0 disk.
+466,8,3,Often several minutes of clicking on toolbars will not yield the desired function.Simple point-to-point route planning, finding intersections of streets, etc., take way too much effort.After a few hours reliving the frustrations I felt when trying out DeLorme's 2000 offering, I uninstalled Street Atlas 2009 and dusted off my Street Atlas 8.0 disk.
+466,9,3,Often several minutes of clicking on toolbars will not yield the desired function.Simple point-to-point route planning, finding intersections of streets, etc., take way too much effort.After a few hours reliving the frustrations I felt when trying out DeLorme's 2000 offering, I uninstalled Street Atlas 2009 and dusted off my Street Atlas 8.0 disk.
+466,13,3,Often several minutes of clicking on toolbars will not yield the desired function.Simple point-to-point route planning, finding intersections of streets, etc., take way too much effort.After a few hours reliving the frustrations I felt when trying out DeLorme's 2000 offering, I uninstalled Street Atlas 2009 and dusted off my Street Atlas 8.0 disk.
+466,16,3,Often several minutes of clicking on toolbars will not yield the desired function.Simple point-to-point route planning, finding intersections of streets, etc., take way too much effort.After a few hours reliving the frustrations I felt when trying out DeLorme's 2000 offering, I uninstalled Street Atlas 2009 and dusted off my Street Atlas 8.0 disk.
+466,22,3,Often several minutes of clicking on toolbars will not yield the desired function.Simple point-to-point route planning, finding intersections of streets, etc., take way too much effort.After a few hours reliving the frustrations I felt when trying out DeLorme's 2000 offering, I uninstalled Street Atlas 2009 and dusted off my Street Atlas 8.0 disk.
+529,NULL,2,Kills browser hijackers, removes rootkits, prevents botnet attacks.
+589,NULL,1,It has now happened 6 or 7 times in a row.
+707,5,2,) http://www-writing.berkeley.edu/chorus/call/reviews/rosetta_russian/index.html review by Mark Kaiser http://www.language-learning-advisor.com/rosetta-stone-french-1-and-2.html Here are some more reviews that express some reservations about Rosetta Stone content, but still seem to give some lukewarm approval to the teaching method.
+707,9,2,) http://www-writing.berkeley.edu/chorus/call/reviews/rosetta_russian/index.html review by Mark Kaiser http://www.language-learning-advisor.com/rosetta-stone-french-1-and-2.html Here are some more reviews that express some reservations about Rosetta Stone content, but still seem to give some lukewarm approval to the teaching method.
+740,4,2,First, please understand that Rosetta Stone offers NO explanations or help in the student's native language.
+740,9,2,First, please understand that Rosetta Stone offers NO explanations or help in the student's native language.
+749,4,2,Other reviewers have pointed out that the foreign language editions are riddled with errors and questionable usage.
+749,5,2,Other reviewers have pointed out that the foreign language editions are riddled with errors and questionable usage.
+749,9,2,Other reviewers have pointed out that the foreign language editions are riddled with errors and questionable usage.
+749,10,2,Other reviewers have pointed out that the foreign language editions are riddled with errors and questionable usage.
+797,10,2,Worse, in my case, which was to learn Russian, starting as a native speaker of English, I never did catch on to the absence of articles.
+802,2,2,Again, there is just not enough foreign language drill material in Rosetta Stone, to acquire these complex and unfamiliar concepts, inductively or intuitively.
+802,4,2,Again, there is just not enough foreign language drill material in Rosetta Stone, to acquire these complex and unfamiliar concepts, inductively or intuitively.
+802,5,2,Again, there is just not enough foreign language drill material in Rosetta Stone, to acquire these complex and unfamiliar concepts, inductively or intuitively.
+802,9,2,Again, there is just not enough foreign language drill material in Rosetta Stone, to acquire these complex and unfamiliar concepts, inductively or intuitively.
+822,5,1,Further, it is a fact that Rosetta Stone offers no more and no less drill for each of the version 2 foreign language editions.
+822,9,1,Further, it is a fact that Rosetta Stone offers no more and no less drill for each of the version 2 foreign language editions.
+832,NULL,2,http://www.sil.org/LinguaLinks/LanguageLearning/EssaysOnFieldLanguageLearning/ThUsOfABkOfPhtsInIntrhnsnLrnng/ThUsOfABkOfPhtsInIntrhnsnLrnng.htm To effectively use the photo book method, a live tutor is needed, who can answer questions in the student's native language.
+835,5,2,) Please understand that I am not criticizing the quality of the pictures, as many reviewers have.
+835,9,2,) Please understand that I am not criticizing the quality of the pictures, as many reviewers have.
+835,10,2,) Please understand that I am not criticizing the quality of the pictures, as many reviewers have.
+835,18,2,) Please understand that I am not criticizing the quality of the pictures, as many reviewers have.
+843,NULL,1,In the Rosetta Stone content, it appears that the same set of pictures are used in each language edition, with some minor changes made for ancient Latin.
+885,4,1,"Make" and "give" are confusing, as we might be in the context of an arts and crafts project, making small gifts, or party favors.
+885,5,2,"Make" and "give" are confusing, as we might be in the context of an arts and crafts project, making small gifts, or party favors.
+885,9,2,"Make" and "give" are confusing, as we might be in the context of an arts and crafts project, making small gifts, or party favors.
+885,9,1,"Make" and "give" are confusing, as we might be in the context of an arts and crafts project, making small gifts, or party favors.
+916,NULL,3,We really need what the auto enthusiasts call a long term ownership report.
+952,NULL,3,In fact, some Russian nouns change so much, depending on number and case, that it is difficult for my English oriented mind to tell from the pictures if we are still talking about the same nouns, or something new.
+987,NULL,2,In French idioms, humans are occasionally (and politely) referred to as "it" while inanimate objects must be called "he" or "she" based on their grammatical gender.
+1023,NULL,2," But oddly, you don't answer "It makes rain," Instead, in French, you simply state "It rains.
+1026,NULL,3,In English, we usually say "do me a favor" instead of "make me a favor" or "give me a favor.
+1031,NULL,1,How do we know this?
+1083,1,1,Of course, later drill should be solely in the foreign language, to avoid getting bogged down in memorizing rules of grammar that are little help in achieving fluency.
+1131,NULL,2," This method was made popular by Berlitz and others.
+1131,NULL,1," This method was made popular by Berlitz and others.
+1179,4,2,When the CD-ROM drive dies, the student's lowest cost option is sometimes only to buy yet another new computer.
+1179,10,2,When the CD-ROM drive dies, the student's lowest cost option is sometimes only to buy yet another new computer.
+1232,5,1,Speaking of XP, the software (such as educational ones) are unable to see with Vista, I bought some when I was using XP, and put one in my new PC with Vista, but did not play at all, it was driving education software, Vista stored them piece by piece in my photo file instead, so in my photo file, all traffic sign pictures are there as individual photo,, very lovely!!
+1232,9,1,Speaking of XP, the software (such as educational ones) are unable to see with Vista, I bought some when I was using XP, and put one in my new PC with Vista, but did not play at all, it was driving education software, Vista stored them piece by piece in my photo file instead, so in my photo file, all traffic sign pictures are there as individual photo,, very lovely!!
+1251,4,2,It also doesn't crash as often as past versions.
+1251,9,2,It also doesn't crash as often as past versions.
+1346,5,2,I have consistently found that the overall experience is less frustrating than any flavor of Microsoft Windows.
+1346,8,2,I have consistently found that the overall experience is less frustrating than any flavor of Microsoft Windows.
+1346,9,2,I have consistently found that the overall experience is less frustrating than any flavor of Microsoft Windows.
+1346,16,2,I have consistently found that the overall experience is less frustrating than any flavor of Microsoft Windows.
+1346,22,2,I have consistently found that the overall experience is less frustrating than any flavor of Microsoft Windows.
+1415,NULL,1,The SmartList allows you to add email addresses that will be on a "white list".
+1487,NULL,2,The download was done from a disc that was bought online at a store and it cost $35.00.
+1537,10,1,I had previously been a longtime Norton AntiVirus/Internet Security user, but switched because I was told by someone who I thought knew what they were talking about that Norton had become too "bloated" and that Trend Micro used fewer system resources and had less impact on a computer's speed.
+1624,5,3,For $25-$30, it is definitely worth testing!
+1624,9,3,For $25-$30, it is definitely worth testing!
+1662,2,3,) once you figure out how to use them!
+1662,9,3,) once you figure out how to use them!
+1677,4,2,The bottom line is Office 2007 is definitely an improvement over Office 2003, and you may hear some negative things about it while people are still trying to figure it out, but in the end it will be much better and more powerful than its predecessor.
+1677,5,2,The bottom line is Office 2007 is definitely an improvement over Office 2003, and you may hear some negative things about it while people are still trying to figure it out, but in the end it will be much better and more powerful than its predecessor.
+1677,9,2,The bottom line is Office 2007 is definitely an improvement over Office 2003, and you may hear some negative things about it while people are still trying to figure it out, but in the end it will be much better and more powerful than its predecessor.
+1677,10,2,The bottom line is Office 2007 is definitely an improvement over Office 2003, and you may hear some negative things about it while people are still trying to figure it out, but in the end it will be much better and more powerful than its predecessor.
+1780,5,2,The lead and chugs you have at your disposal are brilliant.
+1780,9,2,The lead and chugs you have at your disposal are brilliant.
+1794,NULL,1,I suppose there is a thing such as polishing too much.
+1804,5,2,You might sacrafice a bit of realism but the sound it gives off is rather interesting.
+1804,9,2,You might sacrafice a bit of realism but the sound it gives off is rather interesting.
+1804,18,2,You might sacrafice a bit of realism but the sound it gives off is rather interesting.
+1833,5,1,Another somewhat lacking part is the flutes.
+1833,9,1,Another somewhat lacking part is the flutes.
+1880,NULL,1,It's 8 gigs of concentrated orchestra.
+1920,NULL,1,I've heard a German song made with this and though there were some weak parts it sounded very German like!
+2076,NULL,2,The software monitors critical program functions and settings and will alert you to any issues that need to be addressed.
+2099,18,3,The CA Software products come in generic looking white boxes with blue and green writing.
+2181,5,1,==Interface and Aesthetics== Windows Vista has several "innovations" that seek to improve the user experience, but like the additional security features, also cause grief and inconvenience in the long run.
+2181,8,1,==Interface and Aesthetics== Windows Vista has several "innovations" that seek to improve the user experience, but like the additional security features, also cause grief and inconvenience in the long run.
+2181,9,1,==Interface and Aesthetics== Windows Vista has several "innovations" that seek to improve the user experience, but like the additional security features, also cause grief and inconvenience in the long run.
+2181,22,1,==Interface and Aesthetics== Windows Vista has several "innovations" that seek to improve the user experience, but like the additional security features, also cause grief and inconvenience in the long run.
+2193,4,2,But a wide range of free/shareware software (Stardock's Windowblinds, for example) programs are equally as capable at making XP look as good or better than Vista.
+2193,5,2,But a wide range of free/shareware software (Stardock's Windowblinds, for example) programs are equally as capable at making XP look as good or better than Vista.
+2193,9,2,But a wide range of free/shareware software (Stardock's Windowblinds, for example) programs are equally as capable at making XP look as good or better than Vista.
+2193,18,2,But a wide range of free/shareware software (Stardock's Windowblinds, for example) programs are equally as capable at making XP look as good or better than Vista.
+2224,NULL,1,Functional as both a multitrack editor as well as a stereo editor, Audition will save you money, if your strapped for cash, by not needing you to buy the stereo editor which you don't have yet or the multitrack editor that you need.
+2277,NULL,2,Ed.
+2289,3,3,installation process will need to run Domain Prep for each domain you wish to install Exch2007 Ent.
+2289,9,3,installation process will need to run Domain Prep for each domain you wish to install Exch2007 Ent.
+2329,NULL,2,As a matter of fact the retail version of Microsoft Exchange 2007 ship only in x64-bit.
+2350,NULL,2,marks a march back to the functional model of Exchange 5.5; i.e.
+2415,NULL,2,However, all of our new (larger 4U and larger) servers are brought on-line with Windows 2003 Enterprise x64-bit Edition.
+2440,2,3,Choosing to install the applets is simple and straightforward.
+2440,9,3,Choosing to install the applets is simple and straightforward.
+2486,3,2,I prefer to make those choices during the installation of the NOS; less work after the system reboots, but I began to install new Server services, this utility became a very usable administrative tool.
+2486,5,2,I prefer to make those choices during the installation of the NOS; less work after the system reboots, but I began to install new Server services, this utility became a very usable administrative tool.
+2486,9,2,I prefer to make those choices during the installation of the NOS; less work after the system reboots, but I began to install new Server services, this utility became a very usable administrative tool.
+2493,5,3,The Extended View of Group Policy provides the administrator with the ability to select a policy option from the right pane and see a description of what the policy does on the left pane; very, very, useful.
+2493,10,3,The Extended View of Group Policy provides the administrator with the ability to select a policy option from the right pane and see a description of what the policy does on the left pane; very, very, useful.
+2496,5,1,Overall I am very pleased with Windows Server 2003, Standard x64 Edition.
+2496,7,1,Overall I am very pleased with Windows Server 2003, Standard x64 Edition.
+2496,9,1,Overall I am very pleased with Windows Server 2003, Standard x64 Edition.
+2535,NULL,1,Many options can be toggled on and off.
+2552,4,2,Vista uses a lot of computer resources.
+2552,9,2,Vista uses a lot of computer resources.
+2685,NULL,2,The default is 10 pt Arial.
+2745,NULL,2,number, percent, text, date, etc.
+2783,NULL,1,If you would like to see how a line graph looks, please use the previous example and select Line instead of Column or Bar.
+2797,NULL,2,Any number of cells can be added together, subtracted from each-other, multiplied together, or divided by each-other.
+2801,NULL,1,5 - 2 = 3 Let's let Excel help us once again: In cell B1, enter 5 In cell B2, enter 2 In cell B3, enter =A1-A2 As you can see, this equation clearly holds up... 5 + (-2) = 3 An important thing to remember is that subtraction is also just the addition of a negative.
+2827,NULL,3,If you paste it into cell J2, it will say 28.
+2828,NULL,2,This is because we have frozen the columns, but not the rows are free to move.
+2834,NULL,2,If your value is 10, this means that you did not properly freeze your reference call, and it is now just summing K2 and K3.
+2953,NULL,1,In cell A15, enter Eric In cell B15, enter =IF(ISERROR(VLOOKUP($A15,$G$1:$I$10,column(B15),0)),"Name Not In List", VLOOKUP($A15,$G$1:$I$10,column(B15),0)) The value in B15 should be 7 Now copy cell B15 and paste it into cell C15.
+2956,NULL,1,VLOOKUP works by looking in the leftmost column and returning the first instance of the lookup value that it finds.
+2995,NULL,1,Were going to take this a few steps at a time - we want to find the left 3 letters, but we do not want to have the number 3 hard-coded.
+3071,3,3,The initial setup does not take a long time at all.
+3071,9,3,The initial setup does not take a long time at all.
+3093,4,2,After installing Internet explorer kept crashing right after I had exitited out of the program.
+3093,9,2,After installing Internet explorer kept crashing right after I had exitited out of the program.
+3200,NULL,1,You have the ability to select which features you may want to auto-protect (NSW will automatically scan and check these features).
+3214,NULL,3,option (defragmenting, sorts out the location and best storage of information stored on your hard drive).
+3223,2,1,This can be a quick and easy way of clearing out a lot of different files that you have finished with, but it always pays to be very careful when using the facility.
+3223,3,1,This can be a quick and easy way of clearing out a lot of different files that you have finished with, but it always pays to be very careful when using the facility.
+3223,9,1,This can be a quick and easy way of clearing out a lot of different files that you have finished with, but it always pays to be very careful when using the facility.
+3272,NULL,1,Newer versions are available too.
+3277,NULL,2,) If as is wise, you do run a firewall with it (to prevent intruders on your system whilst on the internet), remember to configure your firewall to allow the update facility to work and if necessary allow any shared (networked) drives to be scanned.
+3285,NULL,2,Microsoft Office 2007 has four of the same products from Office 2003, Word, Excel, Powerpoint, and Outlook.
+3296,NULL,1,Again no more drop down windows to find what you are looking for.
+3296,4,2,Again no more drop down windows to find what you are looking for.
+3296,9,2,Again no more drop down windows to find what you are looking for.
+3395,4,2,Okay, Ill admit it; I have long lists of passwords like everyone else; it seems you cannot even visit a web site these days without filling our reams of on-line forms.
+3395,5,2,Okay, Ill admit it; I have long lists of passwords like everyone else; it seems you cannot even visit a web site these days without filling our reams of on-line forms.
+3395,9,2,Okay, Ill admit it; I have long lists of passwords like everyone else; it seems you cannot even visit a web site these days without filling our reams of on-line forms.
+3395,10,2,Okay, Ill admit it; I have long lists of passwords like everyone else; it seems you cannot even visit a web site these days without filling our reams of on-line forms.
+3695,NULL,3,Let me elaborate.
+3713,NULL,1,) called "User Account Control.
+3767,5,2,I have had the PhotoTrackr Lite for a little over a week and I am SOLD.
+3767,9,2,I have had the PhotoTrackr Lite for a little over a week and I am SOLD.
+3777,NULL,1,The computer software does the rest after I return home.
+3819,11,1,I e-mailed customer service.
+4024,3,1,In most cases, CS3 does them much faster than CS2.
+4024,9,1,In most cases, CS3 does them much faster than CS2.
+4052,4,2,It's nice to be able to run Photoshop, Dreamweaver, and three other programs without expending all of my computer's resources, and this program is certainly streamlined enough to allow me to do that.
+4052,5,2,It's nice to be able to run Photoshop, Dreamweaver, and three other programs without expending all of my computer's resources, and this program is certainly streamlined enough to allow me to do that.
+4052,9,2,It's nice to be able to run Photoshop, Dreamweaver, and three other programs without expending all of my computer's resources, and this program is certainly streamlined enough to allow me to do that.
+4061,10,2,A fairly important note: most of this review has been addressed to people who have used Photoshop before.
+4062,5,1,For users that haven't, this is still the version of Photoshop I'd recommend.
+4062,9,1,For users that haven't, this is still the version of Photoshop I'd recommend.
+4070,10,1,I've been a long-time user of Quickbooks and thought I would upgrade to Quickbooks Pro 2008 because I had bought a new computer with Vista.
+4078,NULL,1,Still no luck.
+4086,5,3,That really bothered me.
+4086,9,3,That really bothered me.
+4098,5,1,I like the flexibility of the user definable menus that Nero has, but the speed difference in burning a full 2 hour single layer DVD is quite remarkable.
+4098,9,1,I like the flexibility of the user definable menus that Nero has, but the speed difference in burning a full 2 hour single layer DVD is quite remarkable.
+4203,4,2,In this day and age digital media is changing rapidly so it is amazing that this suite can keep up with many of the changes and still offer it on a disc.
+4203,5,2,In this day and age digital media is changing rapidly so it is amazing that this suite can keep up with many of the changes and still offer it on a disc.
+4203,9,2,In this day and age digital media is changing rapidly so it is amazing that this suite can keep up with many of the changes and still offer it on a disc.
+4262,NULL,2,Way to go!
+4308,11,2,Last I spoke with them they stated that I can use one copy of WinXP (Full license) on the machine and use it the way I'm trying to, legally.
+4314,5,1,CONCLUSION: I feel that this product being a VMWare product makes it worth what you pay for over it's competitors.
+4314,7,1,CONCLUSION: I feel that this product being a VMWare product makes it worth what you pay for over it's competitors.
+4314,9,1,CONCLUSION: I feel that this product being a VMWare product makes it worth what you pay for over it's competitors.
+4377,NULL,3,To counter this, there are options for caching images on your hard drive and using a swap file.
+4421,3,2,If you do not have a good computer it is your fault not Vista's fault.
+4421,9,2,If you do not have a good computer it is your fault not Vista's fault.
+4421,10,2,If you do not have a good computer it is your fault not Vista's fault.
+4448,4,1,Windows XP does have its flaws though... namely in the method of error reporting.
+4448,9,1,Windows XP does have its flaws though... namely in the method of error reporting.
+4487,NULL,3,++++++++++++++++++++++++++++++++++++++++++++++++++++++ P.S.
+4494,NULL,1,Background Dreamweaver is a product that allows the user to create websites and web based applications.
+4497,5,1,I've heard a few people say that Notepad is a superior pure coding program compared to Dreamweavers coding editor.
+4497,9,1,I've heard a few people say that Notepad is a superior pure coding program compared to Dreamweavers coding editor.
+4554,NULL,2,Vector vs Raster You may be asking, "What the heck are vector graphics?
+4578,2,1,This gives you amazing control over color schemes and helps making appealing graphics much easier than before.
+4578,5,1,This gives you amazing control over color schemes and helps making appealing graphics much easier than before.
+4578,9,1,This gives you amazing control over color schemes and helps making appealing graphics much easier than before.
+4578,18,1,This gives you amazing control over color schemes and helps making appealing graphics much easier than before.
+4590,NULL,3,Most Illustrator plug-ins are aimed at color options or new filters.
+4710,5,2,Second, many of the options have vague names to them, and unless you have extensively used Photoshop before, you will have no idea what they specifically do.
+4710,9,2,Second, many of the options have vague names to them, and unless you have extensively used Photoshop before, you will have no idea what they specifically do.
+4710,10,2,Second, many of the options have vague names to them, and unless you have extensively used Photoshop before, you will have no idea what they specifically do.
+4728,NULL,1,This gives you many more possibilities on editing you images, or for creating work from scratch.
+4805,NULL,3,While it functions best on a newer machine, it's friendly to older operating systems.
+4819,NULL,3,Not only do you get an army of standard drum kits (both acoustic and electric), but you get Taikos, you get Djembes, and you get Bombos, Tavals, Lion Drums...there's even two different 81-key 'Metal Shop' patches that have everything from ringing metal hits to sharp clangs and resounding sternum-vibrating thuds.
+4821,5,2,The quality of the sounds is such that it would require no suspension of disblief to truly believe myself to be sitting before a massive percussion section, each player waiting breathlessly for me to command them - All I have to do is to close my eyes.
+4821,9,2,The quality of the sounds is such that it would require no suspension of disblief to truly believe myself to be sitting before a massive percussion section, each player waiting breathlessly for me to command them - All I have to do is to close my eyes.
+4821,18,2,The quality of the sounds is such that it would require no suspension of disblief to truly believe myself to be sitting before a massive percussion section, each player waiting breathlessly for me to command them - All I have to do is to close my eyes.
+4821,19,2,The quality of the sounds is such that it would require no suspension of disblief to truly believe myself to be sitting before a massive percussion section, each player waiting breathlessly for me to command them - All I have to do is to close my eyes.
+4821,21,2,The quality of the sounds is such that it would require no suspension of disblief to truly believe myself to be sitting before a massive percussion section, each player waiting breathlessly for me to command them - All I have to do is to close my eyes.
+4872,NULL,1,350 effects for USD $9000 works out to about USD $30 per effect.
+4878,4,2,Every programmer with a slight bent towards the musical is popping one out, and the vast majority are either overpriced, underpowered, or underproduced.
+4878,9,2,Every programmer with a slight bent towards the musical is popping one out, and the vast majority are either overpriced, underpowered, or underproduced.
+4878,10,2,Every programmer with a slight bent towards the musical is popping one out, and the vast majority are either overpriced, underpowered, or underproduced.
+4891,NULL,1,' instead.
+4898,5,2,This isn't to say that Miroslav is without failings.
+4898,9,2,This isn't to say that Miroslav is without failings.
+4907,5,2,I wasn't really expecting a digital Bosendorfer, but I've heard better piano tones on a USD $400 keyboard.
+4907,6,2,I wasn't really expecting a digital Bosendorfer, but I've heard better piano tones on a USD $400 keyboard.
+4907,9,2,I wasn't really expecting a digital Bosendorfer, but I've heard better piano tones on a USD $400 keyboard.
+4963,NULL,3,And if you're very, very lucky, you might actually find one with a few standard phrases.
+4976,2,2,SC is hard to learn.
+4976,9,2,SC is hard to learn.
+4976,19,2,SC is hard to learn.
+5013,2,3,Then my boss brought in his laptop, anticipating (correctly) a rather slow day, and began using this large, friendly programme with practiced ease on a few of his band's songs.
+5013,6,3,Then my boss brought in his laptop, anticipating (correctly) a rather slow day, and began using this large, friendly programme with practiced ease on a few of his band's songs.
+5013,8,3,Then my boss brought in his laptop, anticipating (correctly) a rather slow day, and began using this large, friendly programme with practiced ease on a few of his band's songs.
+5013,9,3,Then my boss brought in his laptop, anticipating (correctly) a rather slow day, and began using this large, friendly programme with practiced ease on a few of his band's songs.
+5013,16,3,Then my boss brought in his laptop, anticipating (correctly) a rather slow day, and began using this large, friendly programme with practiced ease on a few of his band's songs.
+5082,5,1,Save your money, stick to the older Amplitube programmes - Amplitube Metal from IK Multimedia gets 1.5 stars out of 5.
+5082,9,1,Save your money, stick to the older Amplitube programmes - Amplitube Metal from IK Multimedia gets 1.5 stars out of 5.
+5130,8,1,I mention it further in this review then you will be amazed at the results.
+5130,13,1,I mention it further in this review then you will be amazed at the results.
+5130,16,1,I mention it further in this review then you will be amazed at the results.
+5130,17,1,I mention it further in this review then you will be amazed at the results.
+5132,5,2,Had they adjusted the gamma settings are reprofiled they would have been ok. First Impressions out of the box The packing is cool and is such that you could use the box it the spyder comes in to store it.
+5132,9,2,Had they adjusted the gamma settings are reprofiled they would have been ok. First Impressions out of the box The packing is cool and is such that you could use the box it the spyder comes in to store it.
+5132,18,2,Had they adjusted the gamma settings are reprofiled they would have been ok. First Impressions out of the box The packing is cool and is such that you could use the box it the spyder comes in to store it.
+5155,4,2,Once you install the software the it walks you through step by step to create your profile.
+5155,9,2,Once you install the software the it walks you through step by step to create your profile.
+5166,2,3,The interface on this screen is a bit awkward.
+5166,9,3,The interface on this screen is a bit awkward.
+5211,NULL,2,That's all you have to know.
+5229,NULL,2,Let's say, you have a picture of your family.
+5271,NULL,2,He called me and asked me how I did it.
+5303,NULL,3,With Quicken I can go on the internet and download cleared transactions to quicken.
+5329,NULL,1,In addition, ZA informed us that there was now a 'third network' that it wanted us to connect to....hmmmmm....
+5382,5,2,We alsd found our that the merchant was no longer recommending ICVerify and we had words with the merchant about why we were not informed.
+5382,9,2,We alsd found our that the merchant was no longer recommending ICVerify and we had words with the merchant about why we were not informed.
+5382,11,2,We alsd found our that the merchant was no longer recommending ICVerify and we had words with the merchant about why we were not informed.
+5392,5,1,I think Authorize.net is a good alternative for charge capture, but you still need a merchant to interface.
+5392,9,1,I think Authorize.net is a good alternative for charge capture, but you still need a merchant to interface.
+5401,4,2,It prompts you along when needed.
+5401,5,2,It prompts you along when needed.
+5401,9,2,It prompts you along when needed.
+5412,20,3,I bought this product from an Amazon seller after reading multiple reviews that the 2008 product was not good.
+5453,NULL,2,I use it mostly for ASP.NET web forms, master pages, classes, HTML, JavaScript, and style sheets.
+5460,2,3,This program makes it really easy to use code behind because you can select this option when you create a page and you can select from drop down boxes the items that you already added to the page (such as text boxes and buttons) and the events that you want to work with.
+5460,9,3,This program makes it really easy to use code behind because you can select this option when you create a page and you can select from drop down boxes the items that you already added to the page (such as text boxes and buttons) and the events that you want to work with.
+5475,4,2,It is very easy to work with data sources too.
+5475,5,2,It is very easy to work with data sources too.
+5475,9,2,It is very easy to work with data sources too.
+5481,NULL,1,You can mark spots in your program where something is wrong and start debugging and it will go line by line and you can see the values of the variables, even the content of a dataset.
+5539,4,2,And while I am still experimenting with it, I have already been impressed by the quality and ease of use.
+5539,5,2,And while I am still experimenting with it, I have already been impressed by the quality and ease of use.
+5539,9,2,And while I am still experimenting with it, I have already been impressed by the quality and ease of use.
+5567,6,1,I am looking forward to using this program to do it.
+5607,NULL,1,You're likely to need them.
+5610,5,2,Unfortunately this time, the feeling will be accompanied by a sense that this is really not necessary.
+5610,9,2,Unfortunately this time, the feeling will be accompanied by a sense that this is really not necessary.
+5610,16,2,Unfortunately this time, the feeling will be accompanied by a sense that this is really not necessary.
+5620,NULL,1,I am currently trying the Trend Micro suite.
+5713,NULL,1,I did call my credit card company and contested the eventual failure of Pinnacle to refund the charge at my initial request (Had I purchased a hardware product at Best Buy, it would have been accepted as a return immediately.
+5722,NULL,1," Macromedia Flash is a software application that was created by Macromedia that is used to create vector graphic-based animation with full screen interfaces, navigation, and illustrations.
+5808,2,1,Look and Feel The layout of Word is sharp and easy to learn.
+5808,5,1,Look and Feel The layout of Word is sharp and easy to learn.
+5808,9,1,Look and Feel The layout of Word is sharp and easy to learn.
+5858,2,2,I knew enough about camcorders to guess that I probably wouldn't get the kind that burns directly to DVD, but I didn't realize that our gift would end up requiring me to spend an hour on the phone with Costco tech support (thanks, Dan!
+5858,4,2,I knew enough about camcorders to guess that I probably wouldn't get the kind that burns directly to DVD, but I didn't realize that our gift would end up requiring me to spend an hour on the phone with Costco tech support (thanks, Dan!
+5858,5,2,I knew enough about camcorders to guess that I probably wouldn't get the kind that burns directly to DVD, but I didn't realize that our gift would end up requiring me to spend an hour on the phone with Costco tech support (thanks, Dan!
+5858,9,2,I knew enough about camcorders to guess that I probably wouldn't get the kind that burns directly to DVD, but I didn't realize that our gift would end up requiring me to spend an hour on the phone with Costco tech support (thanks, Dan!
+5858,10,3,I knew enough about camcorders to guess that I probably wouldn't get the kind that burns directly to DVD, but I didn't realize that our gift would end up requiring me to spend an hour on the phone with Costco tech support (thanks, Dan!
+5858,11,2,I knew enough about camcorders to guess that I probably wouldn't get the kind that burns directly to DVD, but I didn't realize that our gift would end up requiring me to spend an hour on the phone with Costco tech support (thanks, Dan!
+5858,11,3,I knew enough about camcorders to guess that I probably wouldn't get the kind that burns directly to DVD, but I didn't realize that our gift would end up requiring me to spend an hour on the phone with Costco tech support (thanks, Dan!
+5871,10,2,Yeah, well I forgot the fact that I didn't actually have a DVD burner on my PC, so I ended up burning the file from my laptop via a home wireless network.
+5925,NULL,2,The package is called Microsoft Expression Media 2.
+5964,5,2,It would have been more convenient the the other way around, a small flaw.
+5964,9,2,It would have been more convenient the the other way around, a small flaw.
+6000,4,2,If you have read my review on Aperture you will know the areas that really bothered me and you will see that all have been addressed with only one must have item missing (kind of): 1.
+6000,5,2,If you have read my review on Aperture you will know the areas that really bothered me and you will see that all have been addressed with only one must have item missing (kind of): 1.
+6000,9,2,If you have read my review on Aperture you will know the areas that really bothered me and you will see that all have been addressed with only one must have item missing (kind of): 1.
+6012,3,2,There is a function to monitor the folders so that if new subfolders(directories) or files are added, they will be added automatically to the catalog.
+6012,9,2,There is a function to monitor the folders so that if new subfolders(directories) or files are added, they will be added automatically to the catalog.
+6027,NULL,2,The categories are: Label - color coding which can be controlled by number 0-9, Rating - stars like iTunes, Catalog sets - can be used like albums or keywords, Date Finder - finds photos by date very powerful, file type - sorts all files by type - useful when including video shots with cameras or looking for different formats, Event - set your own event keywords or use like an album function, Creator - more keyword capability, People - more keywords,Keywords - in case the above was not enough.
+6027,5,1,The categories are: Label - color coding which can be controlled by number 0-9, Rating - stars like iTunes, Catalog sets - can be used like albums or keywords, Date Finder - finds photos by date very powerful, file type - sorts all files by type - useful when including video shots with cameras or looking for different formats, Event - set your own event keywords or use like an album function, Creator - more keyword capability, People - more keywords,Keywords - in case the above was not enough.
+6027,9,1,The categories are: Label - color coding which can be controlled by number 0-9, Rating - stars like iTunes, Catalog sets - can be used like albums or keywords, Date Finder - finds photos by date very powerful, file type - sorts all files by type - useful when including video shots with cameras or looking for different formats, Event - set your own event keywords or use like an album function, Creator - more keyword capability, People - more keywords,Keywords - in case the above was not enough.
+6037,NULL,1,You need to select where you want to be, click Edit and Add Terms.
+6046,NULL,2,Really nice.
+6046,5,1,Really nice.
+6046,9,1,Really nice.
+6051,NULL,3,It is not necessary, at any rate, to zoom into the eye and select the pupil like most others.
+6152,NULL,2," True.
+6195,NULL,3,Put simply a spreadsheet is a sheet divided into rows and columns.
+6219,NULL,1,-Insert this combines all the different types of objects that can be inserted into the worksheet PivotTables, Pictures etc, Charts, Hyperlinks, text boxes are all controlled from this group.
+6221,4,2,-Formulas this is a useful group with a ton of resources for all the formulas available in Excel in addition, there are some additional auditing, calculation and name functions.
+6221,5,2,-Formulas this is a useful group with a ton of resources for all the formulas available in Excel in addition, there are some additional auditing, calculation and name functions.
+6221,9,2,-Formulas this is a useful group with a ton of resources for all the formulas available in Excel in addition, there are some additional auditing, calculation and name functions.
+6229,2,1,Well you first have to go into the Home button and click on Excel Options somewhere buried in these options is a check box to make development tools available.
+6229,9,1,Well you first have to go into the Home button and click on Excel Options somewhere buried in these options is a check box to make development tools available.
+6236,4,2,As Excel 2007 is introduced, it is obvious that Microsoft are beginning to listen to the users and not only update the technology, but also enhance the user interface.
+6236,5,2,As Excel 2007 is introduced, it is obvious that Microsoft are beginning to listen to the users and not only update the technology, but also enhance the user interface.
+6236,9,2,As Excel 2007 is introduced, it is obvious that Microsoft are beginning to listen to the users and not only update the technology, but also enhance the user interface.
+6236,10,2,As Excel 2007 is introduced, it is obvious that Microsoft are beginning to listen to the users and not only update the technology, but also enhance the user interface.
+6254,5,2,One of the more powerful features, PivotTables has been improved.
+6254,9,2,One of the more powerful features, PivotTables has been improved.
+6258,2,2,Its impossible to cover all of the improvements in Excel 2007 simple things like adding a background picture are very easy, whereas it used to be difficult in Excel 2003.
+6258,5,2,Its impossible to cover all of the improvements in Excel 2007 simple things like adding a background picture are very easy, whereas it used to be difficult in Excel 2003.
+6258,9,2,Its impossible to cover all of the improvements in Excel 2007 simple things like adding a background picture are very easy, whereas it used to be difficult in Excel 2003.
+6321,4,2,Easy import of musical files, including MIDI,WAV,WMA,,MP3 and CDAudio If you have any of these files, you can import the melody and/or have BIAB determine the chords based on the file.
+6321,9,2,Easy import of musical files, including MIDI,WAV,WMA,,MP3 and CDAudio If you have any of these files, you can import the melody and/or have BIAB determine the chords based on the file.
+6348,NULL,1,One of the high schools in my district spends several weeks on the program as part of their electronic music class.
+6352,NULL,2,The megapak is expensive.
+6353,NULL,3,However, upgrades are not.
+6369,5,2,That is invaluable for learning patterns or tunes in all 12 keys.
+6369,9,2,That is invaluable for learning patterns or tunes in all 12 keys.
+6394,5,1,I would highly recommend it to anyone.
+6394,7,1,I would highly recommend it to anyone.
+6394,9,1,I would highly recommend it to anyone.
+6680,11,2,"If you want to, you can put it together in our office, so that if you have any questions, we can help you," their whiz kid said, who was obviously able to work faster than the speed of light in InDesign.
+6705,3,2,The program doesnt load that quickly, and even though it could be my office computer, it seems to move more slowly than other programs on my office computer.
+6705,5,2,The program doesnt load that quickly, and even though it could be my office computer, it seems to move more slowly than other programs on my office computer.
+6705,9,2,The program doesnt load that quickly, and even though it could be my office computer, it seems to move more slowly than other programs on my office computer.
+6776,NULL,1,It seemed that there only solution was to down load the most recent fix which changed often.
+6798,NULL,1,The vendor entries have a spot for "e-mail" but not "fax.
+7154,16,2,Terrified and confused I then took the same information I had entered in TurboTax and TurboTax's forms to an actual CPA with a lifetime in the business.
+7164,NULL,2,I purchased this software at Circuit City for about $100.
+7184,5,1,But, frankly, I myself had never gotten any significant use out of viewing those "nice-but-superfluous" (eminently skippable) movies; and I didn't feel that any of the other modest enhancements (that TurboTax provided but which TaxCut didn't) had given me sufficient reason to pay five bucks extra for TurboTax.
+7184,5,3,But, frankly, I myself had never gotten any significant use out of viewing those "nice-but-superfluous" (eminently skippable) movies; and I didn't feel that any of the other modest enhancements (that TurboTax provided but which TaxCut didn't) had given me sufficient reason to pay five bucks extra for TurboTax.
+7184,9,1,But, frankly, I myself had never gotten any significant use out of viewing those "nice-but-superfluous" (eminently skippable) movies; and I didn't feel that any of the other modest enhancements (that TurboTax provided but which TaxCut didn't) had given me sufficient reason to pay five bucks extra for TurboTax.
+7184,9,3,But, frankly, I myself had never gotten any significant use out of viewing those "nice-but-superfluous" (eminently skippable) movies; and I didn't feel that any of the other modest enhancements (that TurboTax provided but which TaxCut didn't) had given me sufficient reason to pay five bucks extra for TurboTax.
+7184,18,3,But, frankly, I myself had never gotten any significant use out of viewing those "nice-but-superfluous" (eminently skippable) movies; and I didn't feel that any of the other modest enhancements (that TurboTax provided but which TaxCut didn't) had given me sufficient reason to pay five bucks extra for TurboTax.
+7184,19,3,But, frankly, I myself had never gotten any significant use out of viewing those "nice-but-superfluous" (eminently skippable) movies; and I didn't feel that any of the other modest enhancements (that TurboTax provided but which TaxCut didn't) had given me sufficient reason to pay five bucks extra for TurboTax.
+7280,NULL,2,I suppose at the beginning is as good a place as any.
+7282,5,1,Finding it reliable, I have just continued to use it even though some of my friends and colleagues began warning about it.
+7282,9,1,Finding it reliable, I have just continued to use it even though some of my friends and colleagues began warning about it.
+7310,4,1,My menu showed that I had the virus software on the computer, but Live Update was saying otherwise.
+7310,9,1,My menu showed that I had the virus software on the computer, but Live Update was saying otherwise.
+7491,4,2,There have been no compatibility issues over the past year.
+7491,9,2,There have been no compatibility issues over the past year.
+7623,4,2,Installation and configuring is easy.
+7623,5,2,Installation and configuring is easy.
+7623,9,2,Installation and configuring is easy.
+7627,NULL,1,If the scan it catches anything it'll show it to you in a popup, isolate it in a Virus Vault and destroy it.
+7629,3,2,The constant scanning means your CPU is busier; computer function is maybe 5 percent slower.
+7629,9,2,The constant scanning means your CPU is busier; computer function is maybe 5 percent slower.
+7633,5,2,My computer tech sighed and said if I must use a PC and Windows (he uses Mac and Linux) I'd made the best choice.
+7633,9,2,My computer tech sighed and said if I must use a PC and Windows (he uses Mac and Linux) I'd made the best choice.
+7633,10,2,My computer tech sighed and said if I must use a PC and Windows (he uses Mac and Linux) I'd made the best choice.
+7703,2,3,Roboform helps users by remembering more complex passwords for higher security.
+7703,9,3,Roboform helps users by remembering more complex passwords for higher security.
+7965,NULL,1,The agent called back promptly but missed me and left a professional message giving me his number to call back, which I did.
+7971,NULL,1,I was recently given the task of upgrading my companies Server and OS.
+7977,3,1,Installation took about 45min or so on the new machine, but in order for it to find all the drivers I had to go thru the Dell installation CD during setup.
+7984,10,2,(It did in my case) Words of Caution: When installing applications like Virus Programs , you have to really look at the system requirements and make sure that its says it runs on Windows SBS 2003.
+8027,NULL,2,Big mistake!
+8092,5,2,The online training programs from Lynda.com are very nice from what I've experienced.
+8092,9,2,The online training programs from Lynda.com are very nice from what I've experienced.
+8126,4,1,After being stung by this mishap, I attempted to keep copies of my data here, there, and yonder, only to find that, more than once, using a given data file did not result in my being able to access the attachments.
+8126,9,1,After being stung by this mishap, I attempted to keep copies of my data here, there, and yonder, only to find that, more than once, using a given data file did not result in my being able to access the attachments.
+8146,NULL,2,Vista Home Premium X86/X64 First My system that is running this new OS.
+8161,4,2,Now all of the next versions are Aero capable, which means you need a video card that has at least 128 meg memory-directx 9 and shader 2.0 capable with 1gig of system memory.
+8161,10,2,Now all of the next versions are Aero capable, which means you need a video card that has at least 128 meg memory-directx 9 and shader 2.0 capable with 1gig of system memory.
+8164,5,1,Vista Home Premium is the one most home users will want.
+8164,9,1,Vista Home Premium is the one most home users will want.
+8164,10,1,Vista Home Premium is the one most home users will want.
+8170,NULL,1,Ultimate is just that.
+8181,10,3,So I'm waiting for when a application that will take advantage of 64 bits.
+8252,NULL,1,If you want to add a new program and ask if you want to continue to install.
+8258,NULL,2,There are some free on the internet, not as many as there used to be.
+8268,NULL,1,IE starts up only slightly faster than Firefox.
+8320,NULL,1,Say you bought the Home Premium version of Vista and you want to try Ultimate to see if you want it.
+8413,NULL,1,Ok... Granted this is not software in today's day and age you are likely to run into or need for your personal computing needs unless you work with mainframes or minicomputers.
+8414,NULL,1,Today, most networking software is dominated by the wireless card in your computer or the modem/router you use to connect to the internet, giving away free drivers and software with the purchase of their product.
+8470,NULL,1,After the setup installs Home Premium and all questions answered.
+8492,2,3,At first it's at a little hard to get used to.
+8492,9,3,At first it's at a little hard to get used to.
+8584,4,2,Moving pictures, including offline media, was as simple as drag and drop.
+8584,5,2,Moving pictures, including offline media, was as simple as drag and drop.
+8584,9,2,Moving pictures, including offline media, was as simple as drag and drop.
+8616,5,1,I would recommend sticking with iPhoto and its weaknesses.
+8616,9,1,I would recommend sticking with iPhoto and its weaknesses.
+8619,5,2,I really cannot recommend it to anyone who needs a photo management tool.
+8619,9,2,I really cannot recommend it to anyone who needs a photo management tool.
+8619,10,2,I really cannot recommend it to anyone who needs a photo management tool.
+8660,5,2,The video editing has to be my favorite part of the collection.
+8660,9,2,The video editing has to be my favorite part of the collection.
+8669,5,1,The results were unbeatable, but putting it all together took one of those stubborn Im smarter than any stupid machine mentalities that entailed reconstructing the entire video from scratch to produce copies of the video for those who requested one.
+8669,9,1,The results were unbeatable, but putting it all together took one of those stubborn Im smarter than any stupid machine mentalities that entailed reconstructing the entire video from scratch to produce copies of the video for those who requested one.
+8676,5,2,All of this is to say that video editing of anything more than the most basic variety is incredibly rewarding but not for the easily discouraged and/or computer newbie.
+8676,8,2,All of this is to say that video editing of anything more than the most basic variety is incredibly rewarding but not for the easily discouraged and/or computer newbie.
+8676,9,2,All of this is to say that video editing of anything more than the most basic variety is incredibly rewarding but not for the easily discouraged and/or computer newbie.
+8676,10,2,All of this is to say that video editing of anything more than the most basic variety is incredibly rewarding but not for the easily discouraged and/or computer newbie.
+8676,13,2,All of this is to say that video editing of anything more than the most basic variety is incredibly rewarding but not for the easily discouraged and/or computer newbie.
+8723,NULL,2,.
+8741,5,2,All in all, this is an incredibly powerful video editor.
+8741,7,2,All in all, this is an incredibly powerful video editor.
+8741,9,2,All in all, this is an incredibly powerful video editor.
+8801,5,2,I based my 4 out of 5 stars on more average users than power users.
+8801,9,2,I based my 4 out of 5 stars on more average users than power users.
+8801,10,2,I based my 4 out of 5 stars on more average users than power users.
+8861,NULL,1,TurboTax continued the feature allowing the user to choose to view the forms as they enter the data.
+8878,4,2,For deductions, TurboTax will walk you through the typical deductions such as interest on a home mortgage, property tax, student loan interest and the like.
+8878,5,2,For deductions, TurboTax will walk you through the typical deductions such as interest on a home mortgage, property tax, student loan interest and the like.
+8878,9,2,For deductions, TurboTax will walk you through the typical deductions such as interest on a home mortgage, property tax, student loan interest and the like.
+8907,NULL,1,I used an accountant for years, and have heard of Turbotax again and again.
+8952,4,2,Starry Night has an interactive screen where you pan across the sky in real time to match the changing sky pattern.
+8952,9,2,Starry Night has an interactive screen where you pan across the sky in real time to match the changing sky pattern.
+8952,18,2,Starry Night has an interactive screen where you pan across the sky in real time to match the changing sky pattern.
+9046,NULL,2,It will ask you if you would like to custom install or use a typical installation.
+9112,NULL,2,There is a lot more information in the manual that I can put in this review.
+9141,10,3,Having decided that my hand coded pages are beginning to look hokey and finding that any web pages within my price range would be terrific for scrap booking clubs but not for a business that needs to present professionally, I sprang for expression web as an update of a gifted copy of Front Page.
+9148,NULL,2,The foundation of a very basic web page is "Cascading Style Sheets" or "CSS" for short, which state all of the styles - bold, italic, put photo an inch from the middle, blue, red, changes color when you run your mouse over it - on a separate page or "sheet" with a title like "mystyles.css".
+9173,5,2,There's a sexy, useless, teeny weeny flip book with lots of white space and pithy statements - "You use styles with a descendant selector to define properties for an item contained by another item", "sibling selectors" - and a pamphlet defining properties with a sparse "Quick Start Tutorial".
+9173,9,2,There's a sexy, useless, teeny weeny flip book with lots of white space and pithy statements - "You use styles with a descendant selector to define properties for an item contained by another item", "sibling selectors" - and a pamphlet defining properties with a sparse "Quick Start Tutorial".
+9173,18,2,There's a sexy, useless, teeny weeny flip book with lots of white space and pithy statements - "You use styles with a descendant selector to define properties for an item contained by another item", "sibling selectors" - and a pamphlet defining properties with a sparse "Quick Start Tutorial".
+9181,2,2,Using something this complex, and it is, requires a book with an index, a list of commands and possibly an interactive session.
+9181,9,2,Using something this complex, and it is, requires a book with an index, a list of commands and possibly an interactive session.
+9181,19,2,Using something this complex, and it is, requires a book with an index, a list of commands and possibly an interactive session.
+9195,NULL,1,Expression Web keeps track of them and how they interface - a dicey proposition once requiring sheets of butcher paper and lots of markers to draw arrows and make notes.
+9206,4,1,Editing your site in Wysiwyg (you see and interact with the picture ) results in placement of styles on the content page, which conflict with style page.
+9206,9,1,Editing your site in Wysiwyg (you see and interact with the picture ) results in placement of styles on the content page, which conflict with style page.
+9208,NULL,3,You can in fact switch to CSS view in the style sheet and hand edit the new code, but then why buy the program?
+9295,NULL,1,Under the programs and features section a user here can turn the windows features on or off depending to adjust security settings as they please.
+9339,2,1,Maxon's Cinema4D is one of easiest to learn 3D software.
+9339,9,1,Maxon's Cinema4D is one of easiest to learn 3D software.
+9365,NULL,2,Let us look at each tab...
+9390,NULL,2,You will see the groupings of Themes, Page Setup, Page Background, Paragraph and Arrange on this tab.
+9393,NULL,1,The table of contents has several different styles to choose from when adding in this information.
+9421,8,1,Certainly, there will be at least mild frustration as you make the switch, but the length of time this lasts was tremendously less than I thought it would be for me.
+9421,22,1,Certainly, there will be at least mild frustration as you make the switch, but the length of time this lasts was tremendously less than I thought it would be for me.
+9424,NULL,2,O/S & Hardware Requirements CPU - 500MHz Processor, preferably 1.4GHz or faster RAM 256 minimum, 512 recommended Hard Drive Free Space 2GB Monitor capable of 1024 x 768 resolution Windows XP SP2 or higher Here are my other software reviews: Nero Ultra Edition - I rated it: 3 Stars Reader Rabbit Playtime for Baby & Toddler - I rated it: 4 Stars
+9432,11,1,So I called the IRS and they told me it was too soon for them to check my efile and I could call back in 10 days.
+9494,2,1,In day-to-day use, the interface of both programs are a draw when speaking about functionality and ease of use.
+9494,5,1,In day-to-day use, the interface of both programs are a draw when speaking about functionality and ease of use.
+9494,9,1,In day-to-day use, the interface of both programs are a draw when speaking about functionality and ease of use.
+9494,19,1,In day-to-day use, the interface of both programs are a draw when speaking about functionality and ease of use.
+9495,5,2,Features WinZip is lacking in this department.
+9495,9,2,Features WinZip is lacking in this department.
+9514,NULL,1,This software will not teach you too much.
+9537,NULL,1,2) Installation of state return is per user request and takes place any time after completely installing disc.
+9582,2,1,Each section involves inputting data into multiple screens; each screen is easy to work with due to a clean simple layout.
+9582,9,1,Each section involves inputting data into multiple screens; each screen is easy to work with due to a clean simple layout.
+9692,NULL,1,I can search Steve birthday and see what I spent on the gift.
+9745,NULL,2,I bought a copy of Norton Antivirus 2008 this year, since my current antivirus ( McAfee ) had expired subscription time.
+9827,10,3,Here is where I, personally, draw the line and begin to fight back.
+9837,NULL,1,Each version is tailored toward what you do and how you file your taxes.
+9864,4,2,TurboTax is worth its price in guiding users through Itemized Deductions, Education Expenses and Credits, and Investment Income portions of the tax preparation process.
+9864,5,2,TurboTax is worth its price in guiding users through Itemized Deductions, Education Expenses and Credits, and Investment Income portions of the tax preparation process.
+9864,9,2,TurboTax is worth its price in guiding users through Itemized Deductions, Education Expenses and Credits, and Investment Income portions of the tax preparation process.
+9945,4,2,Just type in the key words and the screen dims and a spotlight points directly to the closest match for your search criteria (*jaw hits floor when I saw this*).
+9945,5,2,Just type in the key words and the screen dims and a spotlight points directly to the closest match for your search criteria (*jaw hits floor when I saw this*).
+9945,9,2,Just type in the key words and the screen dims and a spotlight points directly to the closest match for your search criteria (*jaw hits floor when I saw this*).
+10183,NULL,1,Dear Epinions Reader: I am going to try a different format to present this product review.
+10294,5,2,Many businesses want to show only what they dare not show, for every government in history has proven to be an unworthy custodian of information and our current one is no different.
+10294,9,2,Many businesses want to show only what they dare not show, for every government in history has proven to be an unworthy custodian of information and our current one is no different.
+10362,10,1,I write whenever and wherever I can, and that means I carry my notebook computer with me virtually everywhere I go, either that or a legal pad wherein I can jot down thoughts and ideas.
+10374,4,2,The included Encarta World English Dictionary and Encarta Thesaurus open in their own sub-program, and can be run independently of the main program.
+10374,9,2,The included Encarta World English Dictionary and Encarta Thesaurus open in their own sub-program, and can be run independently of the main program.
+10397,NULL,1,text, image, or multimedia content.
+10397,NULL,3,text, image, or multimedia content.
+10406,10,2,This feature is a idea for school-aged children, and college students.
+10410,NULL,1,I use it primarily for the Dictionary and Thesaurus functionality.
+10414,5,1,I have read however that Encyclopedia Britannica electronic offering offers more in-depth textual content, but that it lacks the rich multimedia content of Encarta.
+10414,9,1,I have read however that Encyclopedia Britannica electronic offering offers more in-depth textual content, but that it lacks the rich multimedia content of Encarta.
+10650,4,2,I decide to go with Quicken 2008 Home & Business this time around because of the following functionality: o The software is designed for self-employed professionals and include among other things a mileage tracker; o The ability to track and categorize business deductions and see your status throughout the year; o Manage personal and business account from one interface; o Profit and Loss view Installation If you have a previous version of Quicken on your computer, the installation process will remove it completely, so be forewarned; i.e.
+10650,5,2,I decide to go with Quicken 2008 Home & Business this time around because of the following functionality: o The software is designed for self-employed professionals and include among other things a mileage tracker; o The ability to track and categorize business deductions and see your status throughout the year; o Manage personal and business account from one interface; o Profit and Loss view Installation If you have a previous version of Quicken on your computer, the installation process will remove it completely, so be forewarned; i.e.
+10650,9,2,I decide to go with Quicken 2008 Home & Business this time around because of the following functionality: o The software is designed for self-employed professionals and include among other things a mileage tracker; o The ability to track and categorize business deductions and see your status throughout the year; o Manage personal and business account from one interface; o Profit and Loss view Installation If you have a previous version of Quicken on your computer, the installation process will remove it completely, so be forewarned; i.e.
+10690,NULL,1,If you invest in bonds directly there is no built-in registry in Quicken 2008 Home & Businessor any version of Quicken as far as I am awarefor tracking them.
+10697,10,3,Not really, unless you need the specific functionality the software brings to the table.
+10816,NULL,1,True Image also compresses the data as it creates the image so it can cram more data into a portable storage device such as optical discs, USB flash drive, or even to a smaller external HDD.
+10880,NULL,2,What a concept!
+10886,4,2,You can always use WinRAR to split them instead!
+10886,9,2,You can always use WinRAR to split them instead!
+10976,5,2,I don't think this product was ready to be released to the market, period.
+10976,9,2,I don't think this product was ready to be released to the market, period.
+11045,NULL,2,4.
+11068,NULL,3,Jump start typing has been around since 1995 or better.
+11175,5,2,Mini movies with an obnoxious crow for the excitementally challenged.
+11175,9,2,Mini movies with an obnoxious crow for the excitementally challenged.
+11175,10,2,Mini movies with an obnoxious crow for the excitementally challenged.
+11175,18,2,Mini movies with an obnoxious crow for the excitementally challenged.
+11196,NULL,2," You'll give it information about earnings and expenses.
+11204,NULL,3,And if you get nostalgic for paper 1040s and Schedule A's, you can pull up an image of a filled-in form whenever you want.
+11205,3,2,That real-time update allows filling in all the blanks and doing the math in a far shorter time than in a paper world, and more accurately, too.
+11205,5,2,That real-time update allows filling in all the blanks and doing the math in a far shorter time than in a paper world, and more accurately, too.
+11205,9,2,That real-time update allows filling in all the blanks and doing the math in a far shorter time than in a paper world, and more accurately, too.
+11278,NULL,1,You also can't make the picture you made smaller when you go to print it out.
+11300,NULL,1,I tend to toggle.
+11432,NULL,1,Memory, on the other hand, is much faster and is connected as close to the processor as possible on the shortest bus possible to get the best performance.
+11490,2,3,And I can do it all in a single click: once my passwords are stored in a "vault," I can update everything across the 'net with a single click.
+11490,3,3,And I can do it all in a single click: once my passwords are stored in a "vault," I can update everything across the 'net with a single click.
+11531,4,2,When tax time rolls around, the import to TurboTax is (historically speaking, anyway) just as seamless.
+11531,9,2,When tax time rolls around, the import to TurboTax is (historically speaking, anyway) just as seamless.
+11537,NULL,2,Bottom Line: If you've used Quicken before and plan to update, your minimum choice is Quicken 2008 Deluxe; the Starter version will not allow import of existing files.
+11560,5,2,They'll blame every problem on Windows or Microsoft, saying that if only "M$" (yes, they do use such kiddie talk) got their stuff together, their software would work great.
+11560,9,2,They'll blame every problem on Windows or Microsoft, saying that if only "M$" (yes, they do use such kiddie talk) got their stuff together, their software would work great.
+11560,10,2,They'll blame every problem on Windows or Microsoft, saying that if only "M$" (yes, they do use such kiddie talk) got their stuff together, their software would work great.
+11579,3,2,I said to her doesn't that take quite a while?
+11591,NULL,2,I thought to my self how can I lose?
+11605,NULL,1,REQUIREMENTS There are a few minimum requirements that you will have to make sure that your computer has.
+11605,NULL,3,REQUIREMENTS There are a few minimum requirements that you will have to make sure that your computer has.
+11608,NULL,2,Windows XP Professional x64 edition, and Microsoft Windows 2000 edition.
+11654,5,2,I would highly recommend this to any one it is cheap and quick
+11654,9,2,I would highly recommend this to any one it is cheap and quick
+11664,5,2,But definitly install this over ME or vista.
+11664,9,2,But definitly install this over ME or vista.
+11664,20,2,But definitly install this over ME or vista.
+11679,2,3,Smooth and trouble free.
+11679,4,3,Smooth and trouble free.
+11679,9,3,Smooth and trouble free.
+11695,4,2,No bumps during installation.
+11695,9,2,No bumps during installation.
+11703,NULL,1,Shut down and re-started the system.
+11703,NULL,3,Shut down and re-started the system.
+12002,5,1,This is extremely helpful.
+12002,9,1,This is extremely helpful.
+12019,NULL,1,And by everything I mean everything.
+12066,NULL,1,It will only create images with the .KPX format.
+12067,5,1,Id also hoped the system would be a little more verbal.
+12067,6,1,Id also hoped the system would be a little more verbal.
+12067,6,3,Id also hoped the system would be a little more verbal.
+12067,9,1,Id also hoped the system would be a little more verbal.
+12076,NULL,2,A firewall program prevents the malevolent codes from tackling your applications.
+12128,3,2,If you input your data correctly, Minitab can quickly create histograms, bar charts, and pie charts without any effort.
+12128,5,2,If you input your data correctly, Minitab can quickly create histograms, bar charts, and pie charts without any effort.
+12128,9,2,If you input your data correctly, Minitab can quickly create histograms, bar charts, and pie charts without any effort.
+12128,10,2,If you input your data correctly, Minitab can quickly create histograms, bar charts, and pie charts without any effort.
+12146,4,2,Screen resolution was choppy at best.
+12146,5,2,Screen resolution was choppy at best.
+12146,9,2,Screen resolution was choppy at best.
+12146,18,2,Screen resolution was choppy at best.
+12200,NULL,1,It does ask you for permission to install software but anybody using Zone Alarm is used to this.
+12210,5,2,This is death on wheels and a guaranteed headache.
+12210,9,2,This is death on wheels and a guaranteed headache.
+12234,5,3,I dont use the Windows Flip 3-D, as I prefer seeing the pop-ups when I hover over the open programs on my windows bar.
+12234,9,3,I dont use the Windows Flip 3-D, as I prefer seeing the pop-ups when I hover over the open programs on my windows bar.
+12274,4,2,You have thousands of clip art images to choose from, or your own photographic images can easily be utilized into the program with a simple click of the mouse(choose the file in your computer or disk drive with your chosen picture and it's immediately on the ad page)!
+12274,5,2,You have thousands of clip art images to choose from, or your own photographic images can easily be utilized into the program with a simple click of the mouse(choose the file in your computer or disk drive with your chosen picture and it's immediately on the ad page)!
+12274,9,2,You have thousands of clip art images to choose from, or your own photographic images can easily be utilized into the program with a simple click of the mouse(choose the file in your computer or disk drive with your chosen picture and it's immediately on the ad page)!
+12298,4,2,Now, we could have called Canada long distance and have a $45.00 charge added to our credit card just to try and speak to someone in Canada, and we tried that, but the message was, "Due to the volume of calls, we ask you leave your telephone number and representative will get back to you.
+12298,9,2,Now, we could have called Canada long distance and have a $45.00 charge added to our credit card just to try and speak to someone in Canada, and we tried that, but the message was, "Due to the volume of calls, we ask you leave your telephone number and representative will get back to you.
+12528,5,1,The wire appears to be of decent quality - not flimsy, not cheap.
+12528,9,1,The wire appears to be of decent quality - not flimsy, not cheap.
+12580,NULL,2,You can also create as many of your own books as you want.
+12703,5,1,With amazing accompaniments for more than 30,000 titles, challenging exercises, and the ability to record personal CDs, SmartMusic is the future of music learning.
+12703,9,1,With amazing accompaniments for more than 30,000 titles, challenging exercises, and the ability to record personal CDs, SmartMusic is the future of music learning.
+12705,NULL,2,They play or sing their part with accompaniment and receive, in real time on the computer, detailed feedback on their performance.
+12712,3,2,It's a small additional cost, but it makes a huge difference in the usefulness of the program.
+12712,4,2,It's a small additional cost, but it makes a huge difference in the usefulness of the program.
+12712,5,2,It's a small additional cost, but it makes a huge difference in the usefulness of the program.
+12712,9,2,It's a small additional cost, but it makes a huge difference in the usefulness of the program.
+12732,3,3,It can take quite awhile (around 30 minutes) to download the catalog updates, so I try to limit the number of times I say "yes" to them.
+12732,9,3,It can take quite awhile (around 30 minutes) to download the catalog updates, so I try to limit the number of times I say "yes" to them.
+12732,12,3,It can take quite awhile (around 30 minutes) to download the catalog updates, so I try to limit the number of times I say "yes" to them.
+12735,4,2,4) There is one bug, in which you cannot turn off the Intelligent Accompaniment toggle switch.
+12735,9,2,4) There is one bug, in which you cannot turn off the Intelligent Accompaniment toggle switch.
+12738,NULL,1,As I said above, the program is really designed to work with a microphone, and having used it both ways, I agree that the microphone is essential to get the full value from SmartMusic.5) SmartMusic only synthesizes the piano sound.
+12817,4,2,I can research information online, and cut and paste it into my documents, create hyperlinks to websites and drop directly into the document, even record notes to myself directly on the page.
+12817,5,2,I can research information online, and cut and paste it into my documents, create hyperlinks to websites and drop directly into the document, even record notes to myself directly on the page.
+12817,9,2,I can research information online, and cut and paste it into my documents, create hyperlinks to websites and drop directly into the document, even record notes to myself directly on the page.
+13103,NULL,2,The CD key is located on the back of the inner compartment of the box.
+13131,5,2,Windows do a really cool fade-and-shrink motion when you minimize them.
+13131,9,2,Windows do a really cool fade-and-shrink motion when you minimize them.
+13131,18,2,Windows do a really cool fade-and-shrink motion when you minimize them.
+13209,3,1,If it is not, the search may take a minute or so to find all matches.
+13209,9,1,If it is not, the search may take a minute or so to find all matches.
+13279,2,3,Following those steps should clear up any compatibility issues.
+13279,9,3,Following those steps should clear up any compatibility issues.
+13291,10,2,Before upgrading, you must ask yourself three questions: Can my Computer Handle It?
+13295,3,2,There are also "minimum system requirements" above which Vista will run, but if you do not meet the recommended specifications, Vista will run too slow to be worth the upgrade.
+13295,5,2,There are also "minimum system requirements" above which Vista will run, but if you do not meet the recommended specifications, Vista will run too slow to be worth the upgrade.
+13295,10,2,There are also "minimum system requirements" above which Vista will run, but if you do not meet the recommended specifications, Vista will run too slow to be worth the upgrade.
+13311,NULL,2,Don't know what that means?
+13339,NULL,2,If you buy retail (boxed version), you can request a 64-bit DVD from Microsoft at their website (you must pay a small shipping fee).
+13345,NULL,1,If not, you might as well stick with Home Basic.
+13364,NULL,2,I recommend installing the full version (often referred to as a "clean install") for several reasons, including: -Any dangerous viruses, spyware, and other programs will be removed.
+13390,NULL,1,Check the website of each manufacturer and see if they have a Vista driver available for your device.
+13433,3,3,It takes longer than Windows XP, but it also requires less user interaction than XP.
+13433,9,3,It takes longer than Windows XP, but it also requires less user interaction than XP.
+13467,NULL,3,With Vista's new UAC feature, a strong password is very important.
+13470,2,3,While starting for the first time, Vista will measure the performance of your computer (to determine if you can run the Aero interface), ask you to log in with the password you just created, prepare your "personalized settings", and present you with a welcome screen.
+13470,9,3,While starting for the first time, Vista will measure the performance of your computer (to determine if you can run the Aero interface), ask you to log in with the password you just created, prepare your "personalized settings", and present you with a welcome screen.
+13498,5,1,The one antivirus program I think you should avoid is Norton.
+13498,9,1,The one antivirus program I think you should avoid is Norton.
+13521,NULL,1,Where you can do "DJ's mix", wich made professional tracks.
+13561,NULL,3,This CD was included with the Cookn Collection and while the software itself needs an update and bug fixes badly, this CD is a stand alone product that runs from the CD and doesnt need to be installed.
+13632,11,1,The service rep basically threatened me with a lawsuit for not having an appropriate license to run the software!
+13633,5,2,After arguing with him for serveral minutes, trying to tell him I knew that the person had cancelled his own service and transferred the license for the software to me, he claimed the license didn't allow transfers and asked for all sorts of identifying information for me and my friend for their "piracy lawsuit.
+13633,9,2,After arguing with him for serveral minutes, trying to tell him I knew that the person had cancelled his own service and transferred the license for the software to me, he claimed the license didn't allow transfers and asked for all sorts of identifying information for me and my friend for their "piracy lawsuit.
+13633,11,2,After arguing with him for serveral minutes, trying to tell him I knew that the person had cancelled his own service and transferred the license for the software to me, he claimed the license didn't allow transfers and asked for all sorts of identifying information for me and my friend for their "piracy lawsuit.
+13691,NULL,1,The child either click on the star to connect or push any key on the keyboard.
+13703,8,3,Hide and seek is always fun.
+13703,13,3,Hide and seek is always fun.
+13703,16,3,Hide and seek is always fun.
+13703,17,3,Hide and seek is always fun.
+13759,5,1,Buy this program for grandchildren as a Christmas gift.
+13759,9,1,Buy this program for grandchildren as a Christmas gift.
+13794,4,2,You can rip music from the Audio CD itself, There are even visualizations that play to the music, There's also internet radio support and a media guide that can allow you to get the latest in whatever there is.
+13794,5,2,You can rip music from the Audio CD itself, There are even visualizations that play to the music, There's also internet radio support and a media guide that can allow you to get the latest in whatever there is.
+13794,9,2,You can rip music from the Audio CD itself, There are even visualizations that play to the music, There's also internet radio support and a media guide that can allow you to get the latest in whatever there is.
+13797,2,3,You'll need to go through the tour to understand every piece of Windows Media Player to use it efficitively.
+13797,9,3,You'll need to go through the tour to understand every piece of Windows Media Player to use it efficitively.
+13969,NULL,1,My suggestion is to wait on Vista.
+14005,4,1,The only thing it was able to do was download the ringtones.
+14005,9,1,The only thing it was able to do was download the ringtones.
+14037,NULL,2,As an illustration of this, Windows 98 was based off the DOS kernel.
+14037,NULL,3,As an illustration of this, Windows 98 was based off the DOS kernel.
+14038,NULL,1,Windows XP is based off of the NT kernel (also known as the business kernel, or the one that Microsoft built from scratch).
+14041,NULL,2,Exactly.
+14057,NULL,1,If you are still using Windows 98, I'd majorly consider upgrading to XP or even Vista.
+14082,NULL,3,So far tho to cram as much as I can into the palm and keep a hefty 120kb + of memory left I found the emails I sent to novii and that ol' full version and installed 2.5 of it.
+14139,5,2,But it was an unpleasant surprise to have the game all of a sudden stop opening, which led to my "stealth" settings being obsolete when I had to explain the cause.
+14139,8,2,But it was an unpleasant surprise to have the game all of a sudden stop opening, which led to my "stealth" settings being obsolete when I had to explain the cause.
+14139,9,2,But it was an unpleasant surprise to have the game all of a sudden stop opening, which led to my "stealth" settings being obsolete when I had to explain the cause.
+14139,13,2,But it was an unpleasant surprise to have the game all of a sudden stop opening, which led to my "stealth" settings being obsolete when I had to explain the cause.
+14140,5,2,Overall, I highly recommend this program.
+14140,7,2,Overall, I highly recommend this program.
+14140,9,2,Overall, I highly recommend this program.
+14162,5,2,I enjoy learning to play guitar, it is something I decided I wanted to do this year.
+14162,8,2,I enjoy learning to play guitar, it is something I decided I wanted to do this year.
+14162,8,1,I enjoy learning to play guitar, it is something I decided I wanted to do this year.
+14162,9,2,I enjoy learning to play guitar, it is something I decided I wanted to do this year.
+14162,13,2,I enjoy learning to play guitar, it is something I decided I wanted to do this year.
+14162,13,1,I enjoy learning to play guitar, it is something I decided I wanted to do this year.
+14162,16,2,I enjoy learning to play guitar, it is something I decided I wanted to do this year.
+14162,17,2,I enjoy learning to play guitar, it is something I decided I wanted to do this year.
+14162,17,1,I enjoy learning to play guitar, it is something I decided I wanted to do this year.
+14178,NULL,3,Depending on the songs you download, you may also find that the keyboard parts have also been put into guitar tab.
+14178,4,2,Depending on the songs you download, you may also find that the keyboard parts have also been put into guitar tab.
+14178,5,2,Depending on the songs you download, you may also find that the keyboard parts have also been put into guitar tab.
+14178,9,2,Depending on the songs you download, you may also find that the keyboard parts have also been put into guitar tab.
+14178,10,2,Depending on the songs you download, you may also find that the keyboard parts have also been put into guitar tab.
+14208,NULL,1,You pick the loop section, you pick the speed, and you pick the acceleration.
+14273,5,2,I bought it from Office Max for about $15.00, which was a steal, considering that most programs ran for about $49 and up.
+14273,9,2,I bought it from Office Max for about $15.00, which was a steal, considering that most programs ran for about $49 and up.
+14304,5,2,Tools The wall and roofing tools are handy and easy to use.
+14304,9,2,Tools The wall and roofing tools are handy and easy to use.
+14304,19,2,Tools The wall and roofing tools are handy and easy to use.
+14567,4,2,Speed and pausing are not a problem on the PC version, but us Mac users are maybe not the priority.
+14567,5,2,Speed and pausing are not a problem on the PC version, but us Mac users are maybe not the priority.
+14567,9,2,Speed and pausing are not a problem on the PC version, but us Mac users are maybe not the priority.
+14567,10,2,Speed and pausing are not a problem on the PC version, but us Mac users are maybe not the priority.
+14593,4,2,This is one versatile Operating system and it seems as though Microsoft doesn't have any want of slowing down either.
+14593,5,2,This is one versatile Operating system and it seems as though Microsoft doesn't have any want of slowing down either.
+14593,9,2,This is one versatile Operating system and it seems as though Microsoft doesn't have any want of slowing down either.
+14706,NULL,1,I took exception with it coming with a 7 day trial.
+15210,4,2,I didn't even know that the IRS can ask for your return after SIX years.
+15210,9,2,I didn't even know that the IRS can ask for your return after SIX years.
+15227,NULL,1,!
+15254,4,2,Here are my favorite common error messages with Version 11 professional on a Vista machine: Message reads: Paperport (Not Responding) After closing it to reboot the program, a second Window comes up that reads: Windows is checking for a solution to the problem.
+15254,5,2,Here are my favorite common error messages with Version 11 professional on a Vista machine: Message reads: Paperport (Not Responding) After closing it to reboot the program, a second Window comes up that reads: Windows is checking for a solution to the problem.
+15254,9,2,Here are my favorite common error messages with Version 11 professional on a Vista machine: Message reads: Paperport (Not Responding) After closing it to reboot the program, a second Window comes up that reads: Windows is checking for a solution to the problem.
+15309,10,1,This would be the perfect way to start a little girl who may have her own horse someday to get her used to what needs to be done to care for a pony or horse.
+15312,NULL,1,Can you imagine the show and tell tales that your little one could tell when she took a picture of her horse and a certificate in to her class?
+15320,5,1,The simple format is great for writers of all ages and story starter ideas will help younger writers get their stories off on the right foot, or in this case hoof.
+15320,9,1,The simple format is great for writers of all ages and story starter ideas will help younger writers get their stories off on the right foot, or in this case hoof.
+15320,10,1,The simple format is great for writers of all ages and story starter ideas will help younger writers get their stories off on the right foot, or in this case hoof.
+15348,10,1,Crayola First Ladies Costume Maker software is recommended for ages 6-12 according to the manufacturer, but I would estimate that ages 6-10 is a better age recommendation for this product due to the type of activities included in this program and the simplicity of those activities.
+15370,5,2,You can use wild colors, normal colors, stamp all over the outfits, and let your imagination run wild, but then again, isnt that the great thing about Crayola, is that they let your imagination run wild?
+15370,8,2,You can use wild colors, normal colors, stamp all over the outfits, and let your imagination run wild, but then again, isnt that the great thing about Crayola, is that they let your imagination run wild?
+15370,9,2,You can use wild colors, normal colors, stamp all over the outfits, and let your imagination run wild, but then again, isnt that the great thing about Crayola, is that they let your imagination run wild?
+15370,13,2,You can use wild colors, normal colors, stamp all over the outfits, and let your imagination run wild, but then again, isnt that the great thing about Crayola, is that they let your imagination run wild?
+15370,18,2,You can use wild colors, normal colors, stamp all over the outfits, and let your imagination run wild, but then again, isnt that the great thing about Crayola, is that they let your imagination run wild?
+15382,5,1,Well the Crayola First Ladies Costume Maker software program includes some beautiful stationary that you can print out and use to write letters of your very own.
+15382,9,1,Well the Crayola First Ladies Costume Maker software program includes some beautiful stationary that you can print out and use to write letters of your very own.
+15394,5,2,As someone who has worked with children in various capacities over the years, I can appreciate the educational value mixed with the fun factor that Crayola is providing to children and families with the Crayola First Ladies Costume Maker software program.
+15394,8,2,As someone who has worked with children in various capacities over the years, I can appreciate the educational value mixed with the fun factor that Crayola is providing to children and families with the Crayola First Ladies Costume Maker software program.
+15394,9,2,As someone who has worked with children in various capacities over the years, I can appreciate the educational value mixed with the fun factor that Crayola is providing to children and families with the Crayola First Ladies Costume Maker software program.
+15394,10,2,As someone who has worked with children in various capacities over the years, I can appreciate the educational value mixed with the fun factor that Crayola is providing to children and families with the Crayola First Ladies Costume Maker software program.
+15394,13,2,As someone who has worked with children in various capacities over the years, I can appreciate the educational value mixed with the fun factor that Crayola is providing to children and families with the Crayola First Ladies Costume Maker software program.
+15394,16,2,As someone who has worked with children in various capacities over the years, I can appreciate the educational value mixed with the fun factor that Crayola is providing to children and families with the Crayola First Ladies Costume Maker software program.
+15394,17,2,As someone who has worked with children in various capacities over the years, I can appreciate the educational value mixed with the fun factor that Crayola is providing to children and families with the Crayola First Ladies Costume Maker software program.
+15396,2,3,The information provided about the first ladies is enough information to use as instructional material, the paper dolls make an excellent craft, the create your own diary entries would make a fun computer project, and the printable stationary would be great writing practice if used to write letters...perhaps to the president of the United States even?
+15396,5,3,The information provided about the first ladies is enough information to use as instructional material, the paper dolls make an excellent craft, the create your own diary entries would make a fun computer project, and the printable stationary would be great writing practice if used to write letters...perhaps to the president of the United States even?
+15396,8,3,The information provided about the first ladies is enough information to use as instructional material, the paper dolls make an excellent craft, the create your own diary entries would make a fun computer project, and the printable stationary would be great writing practice if used to write letters...perhaps to the president of the United States even?
+15396,9,3,The information provided about the first ladies is enough information to use as instructional material, the paper dolls make an excellent craft, the create your own diary entries would make a fun computer project, and the printable stationary would be great writing practice if used to write letters...perhaps to the president of the United States even?
+15396,13,3,The information provided about the first ladies is enough information to use as instructional material, the paper dolls make an excellent craft, the create your own diary entries would make a fun computer project, and the printable stationary would be great writing practice if used to write letters...perhaps to the president of the United States even?
+15396,17,3,The information provided about the first ladies is enough information to use as instructional material, the paper dolls make an excellent craft, the create your own diary entries would make a fun computer project, and the printable stationary would be great writing practice if used to write letters...perhaps to the president of the United States even?
+15397,9,2,Even if you dont home school your child(ren), you can still use this software.
+15397,10,2,Even if you dont home school your child(ren), you can still use this software.
+15686,2,2,I have found that a lot of the other programs use some repetition but they require you to learn through text and audio only and that makes learning almost impossible.
+15686,5,2,I have found that a lot of the other programs use some repetition but they require you to learn through text and audio only and that makes learning almost impossible.
+15686,9,2,I have found that a lot of the other programs use some repetition but they require you to learn through text and audio only and that makes learning almost impossible.
+15695,2,1,Slowly you will grasp how the sentence structure works, conjugation will come somewhat naturally, and you will essentially learn Spanish without even realizing it.
+15695,4,2,Slowly you will grasp how the sentence structure works, conjugation will come somewhat naturally, and you will essentially learn Spanish without even realizing it.
+15695,5,2,Slowly you will grasp how the sentence structure works, conjugation will come somewhat naturally, and you will essentially learn Spanish without even realizing it.
+15695,9,2,Slowly you will grasp how the sentence structure works, conjugation will come somewhat naturally, and you will essentially learn Spanish without even realizing it.
+15695,9,1,Slowly you will grasp how the sentence structure works, conjugation will come somewhat naturally, and you will essentially learn Spanish without even realizing it.
+15695,19,2,Slowly you will grasp how the sentence structure works, conjugation will come somewhat naturally, and you will essentially learn Spanish without even realizing it.
+15695,19,1,Slowly you will grasp how the sentence structure works, conjugation will come somewhat naturally, and you will essentially learn Spanish without even realizing it.
+15710,NULL,3,Shopping Buying, selling and shopping; entertainment and sports; merchandise, speed and weight, comparing and contrasting Level 2 Topics Travel Destinations, transportation, directions, locations, telling time, distance, cost, weather.
+16297,NULL,1,The modern spread of English is thanks to the United States of America.
+16304,5,2,After doing some research, I remembered Rosetta Stone, and how it was an excellent guide for me to learn some Mandarin Chinese.
+16304,9,2,After doing some research, I remembered Rosetta Stone, and how it was an excellent guide for me to learn some Mandarin Chinese.
+16391,4,3,After a few more months, it made my internet experience extremely frustrating to the point of shutting it down constantly to allow full use of web services I knew were trustworthy.
+16391,5,3,After a few more months, it made my internet experience extremely frustrating to the point of shutting it down constantly to allow full use of web services I knew were trustworthy.
+16391,8,3,After a few more months, it made my internet experience extremely frustrating to the point of shutting it down constantly to allow full use of web services I knew were trustworthy.
+16391,9,3,After a few more months, it made my internet experience extremely frustrating to the point of shutting it down constantly to allow full use of web services I knew were trustworthy.
+16391,13,3,After a few more months, it made my internet experience extremely frustrating to the point of shutting it down constantly to allow full use of web services I knew were trustworthy.
+16391,16,3,After a few more months, it made my internet experience extremely frustrating to the point of shutting it down constantly to allow full use of web services I knew were trustworthy.
+16391,22,3,After a few more months, it made my internet experience extremely frustrating to the point of shutting it down constantly to allow full use of web services I knew were trustworthy.
+16403,4,2,Maybe Zone Alarm would be fine if I didn't update the program and only updated the database, but who wants to hang onto an old program when you know the upgrade contains more protection features and a more modern interface.. ?
+16403,5,2,Maybe Zone Alarm would be fine if I didn't update the program and only updated the database, but who wants to hang onto an old program when you know the upgrade contains more protection features and a more modern interface.. ?
+16403,9,2,Maybe Zone Alarm would be fine if I didn't update the program and only updated the database, but who wants to hang onto an old program when you know the upgrade contains more protection features and a more modern interface.. ?
+16439,5,2,UPDATE 2/08: Apple finally admitted they couldn't fix my computer and after almost three years sent me a new one.
+16439,6,2,UPDATE 2/08: Apple finally admitted they couldn't fix my computer and after almost three years sent me a new one.
+16439,9,2,UPDATE 2/08: Apple finally admitted they couldn't fix my computer and after almost three years sent me a new one.
+16439,11,2,UPDATE 2/08: Apple finally admitted they couldn't fix my computer and after almost three years sent me a new one.
+16470,NULL,1,I did manually download and reinstall some drivers such as those for my Graphics Card, in order to ensure I had the latest, and with all the features.
+16954,5,1,Since then, I watched the company release some pretty good products through DOS 3.1, which was followed with some truly bad operating systems.
+16954,9,1,Since then, I watched the company release some pretty good products through DOS 3.1, which was followed with some truly bad operating systems.
+16962,5,2,Yes, I'm running Windows XP at home and love it.
+16962,8,2,Yes, I'm running Windows XP at home and love it.
+16962,9,2,Yes, I'm running Windows XP at home and love it.
+16962,13,2,Yes, I'm running Windows XP at home and love it.
+16962,16,2,Yes, I'm running Windows XP at home and love it.
+16962,17,2,Yes, I'm running Windows XP at home and love it.
+16997,11,2,Well, you may be asking yourself about customer support.
+16997,11,1,Well, you may be asking yourself about customer support.
+17457,4,1,When Kaspersky scanned my computer it found 45 viruses that Norton had missed.
+17457,9,1,When Kaspersky scanned my computer it found 45 viruses that Norton had missed.
+17555,4,2,This isn't a problem with the Rosetta Stone software.
+17555,5,2,This isn't a problem with the Rosetta Stone software.
+17555,7,2,This isn't a problem with the Rosetta Stone software.
+17555,9,2,This isn't a problem with the Rosetta Stone software.
+17559,10,3,Before Rosetta Stone, I had tried everything from tapes, books for dummies, and other language software programs and was not successful.
+18119,NULL,2,Now that VISTA is out I think it would be hard to review XP, without a brief mention about the obvious alternative - VISTA.
+18253,5,3,I would actually recommend Photoshop CS2, which is the current version, but if you can't find it or afford it.
+18253,9,3,I would actually recommend Photoshop CS2, which is the current version, but if you can't find it or afford it.
+18263,NULL,2,You can edit photographs for print, as well as create high-quality graphics that can be used on webpages.
+18350,5,1,I was sadly disappointed.
+18350,6,1,I was sadly disappointed.
+18350,9,1,I was sadly disappointed.
+18357,4,1,Theoretically you can de-activate before re-installing, but it didn't work for me and if your hard drive fails you have used one of your activations.
+18357,9,1,Theoretically you can de-activate before re-installing, but it didn't work for me and if your hard drive fails you have used one of your activations.
+18358,NULL,2,Additionally, in my case the "five times" was only one time.
+18363,5,3,I've already put too much time and money into this poor product and refuse to call or email at these prices.
+18363,9,3,I've already put too much time and money into this poor product and refuse to call or email at these prices.
+18363,11,3,I've already put too much time and money into this poor product and refuse to call or email at these prices.
+18462,10,3,I ran it for almost a year.
+18524,NULL,3,) on a computer I had lying around in order to familiarize myself with the NOS.
+18534,NULL,1,o CD-ROM or DVD-ROM Drive.
+18611,NULL,1,Thats pretty much what happened.
+18624,NULL,1," One of Vistas most heavily hyped features is its improved security... meaning that Vista is supposed to be much more impervious to outside attacks by viruses, worms, and other malware.
+18890,NULL,2,Once that is done you can do a restart on both machines and your ready to go.
+18915,4,2,PROS: Easy to use, set-up is a snap and doesnt appear (at least so far) to have missed anything in the transfer.
+18915,5,2,PROS: Easy to use, set-up is a snap and doesnt appear (at least so far) to have missed anything in the transfer.
+18915,9,2,PROS: Easy to use, set-up is a snap and doesnt appear (at least so far) to have missed anything in the transfer.
+18950,NULL,1,This is Microsoft-supported and legal.
+18973,NULL,2,I ignored that and continued.
+19003,NULL,2,You could make a cinematic slideshow of your photos, with background music, as well (saveable), and copy recorded tv to dvd's.
+19046,8,3,One has you building "cakes to order," which is making me hungry just thinking about it.
+19046,16,3,One has you building "cakes to order," which is making me hungry just thinking about it.
+19046,19,3,One has you building "cakes to order," which is making me hungry just thinking about it.
+19046,21,3,One has you building "cakes to order," which is making me hungry just thinking about it.
+19075,2,1,My just-purchased Epson Picture Mate was easily installed (by the OS, no less), and the driver actually gave me more paper output options (particularly for "borderless" printing) than the XP version (although I was still able to print borderlessly in XP).
+19075,9,1,My just-purchased Epson Picture Mate was easily installed (by the OS, no less), and the driver actually gave me more paper output options (particularly for "borderless" printing) than the XP version (although I was still able to print borderlessly in XP).
+19119,NULL,1,The sidebar uses 19,000K of memory and 7% of cpu, with only one additional Widget added.
+19147,3,2,It is now proposing to spend "1 Hour and 27 minutes" to copy 130 Gb from my external drive to this one over a USB 2.0 line.
+19147,9,2,It is now proposing to spend "1 Hour and 27 minutes" to copy 130 Gb from my external drive to this one over a USB 2.0 line.
+19158,NULL,2,After some searching, I decided to download a particular, but older, XP version.
+19252,19,3,I am now at a level of mastery where I can do a live performance from scratch and have people think what I was doing was planned out.
+19269,4,3,Turned out to be a simple BIOs issue.
+19269,9,3,Turned out to be a simple BIOs issue.
+19289,NULL,1,One really needs to just play around the environment and make one self familiar with everything.
+19290,3,1,If you are completely new to Windows, this may take some time.
+19290,9,1,If you are completely new to Windows, this may take some time.
+19290,10,1,If you are completely new to Windows, this may take some time.
+19312,NULL,1,I spent a lot of time looking and reading about the different versions of greeting card software.
+19326,2,1,Within 5-10 minutes you can have something wonderful to send to family or a friend that is customized just for them and the occasion.
+19326,3,1,Within 5-10 minutes you can have something wonderful to send to family or a friend that is customized just for them and the occasion.
+19326,5,1,Within 5-10 minutes you can have something wonderful to send to family or a friend that is customized just for them and the occasion.
+19326,9,1,Within 5-10 minutes you can have something wonderful to send to family or a friend that is customized just for them and the occasion.
+19459,15,3,There are so many on the market that are similar in looks but I want the real thing, the one I know I can trust.
+19459,18,3,There are so many on the market that are similar in looks but I want the real thing, the one I know I can trust.
+19808,NULL,2,Naturally, I thought it was music files and pictures.
+19883,NULL,2,I used all of the defaults.
+20063,5,2,If I was a professional landscape architect, I would definitely spend hundreds more for a professional CAD package instead of using this software.
+20063,9,2,If I was a professional landscape architect, I would definitely spend hundreds more for a professional CAD package instead of using this software.
+20063,10,2,If I was a professional landscape architect, I would definitely spend hundreds more for a professional CAD package instead of using this software.
+20070,4,2,My guess is that you will have an easier time avoiding the program's quirks/bugs if your house is a simple rectangle and you have no topography or slopes to add to your plot - good luck if you have complex architecture on rolling terrain.
+20070,5,2,My guess is that you will have an easier time avoiding the program's quirks/bugs if your house is a simple rectangle and you have no topography or slopes to add to your plot - good luck if you have complex architecture on rolling terrain.
+20070,6,2,My guess is that you will have an easier time avoiding the program's quirks/bugs if your house is a simple rectangle and you have no topography or slopes to add to your plot - good luck if you have complex architecture on rolling terrain.
+20070,9,2,My guess is that you will have an easier time avoiding the program's quirks/bugs if your house is a simple rectangle and you have no topography or slopes to add to your plot - good luck if you have complex architecture on rolling terrain.
+20070,10,2,My guess is that you will have an easier time avoiding the program's quirks/bugs if your house is a simple rectangle and you have no topography or slopes to add to your plot - good luck if you have complex architecture on rolling terrain.
+20079,NULL,2,(When was the last time that you bought a rose that was already over 8 feet tall???
+20116,NULL,2,It also reminds you why Microsoft is leading the software and OS world.
+20140,NULL,2,They will then sing the old song again asking me to do this and that in 20 different steps.
+20173,NULL,2,Clicking on any of the highlighted (blue) "operatic terms" (within the text of the character list and/or the synopsis) calls up a text box defining that term.
+20208,4,2,There is no box to check or uncheck so that this will disapear, unless you tell vista that you want to disable the security set up, in which case your Windows runs naked.
+20208,9,2,There is no box to check or uncheck so that this will disapear, unless you tell vista that you want to disable the security set up, in which case your Windows runs naked.
+20244,2,1,Red Eye Improvements This has to be the easiest red eye reduction to date of any program I've used.
+20244,9,1,Red Eye Improvements This has to be the easiest red eye reduction to date of any program I've used.
+20268,NULL,1,Filter By If you want to impress your mother-in-law by just having her pictures displayed all in one grouping, this is your tool.
+20306,4,2,Example: Quicken for the PC has been able to handle brokerage accounts with checkwriting privileges for something like seven years now.
+20306,9,2,Example: Quicken for the PC has been able to handle brokerage accounts with checkwriting privileges for something like seven years now.
+20548,4,2,Money for Small Business allows you to enter your personal checking, savings, investments and your business or businesses if that is the case.
+20548,10,2,Money for Small Business allows you to enter your personal checking, savings, investments and your business or businesses if that is the case.
+20766,NULL,2,My job included voluminous photographic documentation and the hard drive on the company PC was loaded.
+20768,NULL,1,I have had a copy of PhotoShop at home since version 3.0 but I never came close to utilizing all of those ADOBE features.
+20816,NULL,1,The folder is always displayed as a CLOSED icon, even though you selected it.
+20821,5,2,I like the little lightening bolt and I like to see all my MP3 files have a little lightening bolt next to them.
+20821,9,2,I like the little lightening bolt and I like to see all my MP3 files have a little lightening bolt next to them.
+20821,18,2,I like the little lightening bolt and I like to see all my MP3 files have a little lightening bolt next to them.
+20828,NULL,2,Why?
+20828,NULL,3,Why?
+20911,NULL,2,100% Money Back Guarantee.
+20915,NULL,1,Now that I have BellSouth/AT&T DSL, I am online from the moment I turn on my computer, so even if I dont want to browse the Web, chat with friends, submit articles to content sites and simply just want to use the PC to play Sid Meiers Civilization IV, Im potentially at risk from all the threats Spyware Doctor is designed to counter.
+20921,NULL,1,2.
+21035,5,2,I cannot recommend this program.
+21035,9,2,I cannot recommend this program.
+21044,NULL,3,With that change, Symantec remains one of two companies fighting for control of the PC protection market.
+21050,10,1,Users should certainly understand what they are doing if they change the program's default settings.
+21098,NULL,1,Don't even think of not running a regular scan of your entire system.
+21143,4,2,The one he put in his vehicle broke at the hanging joint the first time he shut his truck door after putting it up.
+21143,9,2,The one he put in his vehicle broke at the hanging joint the first time he shut his truck door after putting it up.
+21172,NULL,2,The program includes basic effect options, such as volume and panning controls, the ability to save your work in different formats (such as MP3), eq, reverb, tempo and key changing, and CD burning.
+21177,NULL,1,Users can cut, paste or splice loops in any way theyd like.
+21266,4,2,However, once I downloaded the full version it didn't work too well.
+21266,5,2,However, once I downloaded the full version it didn't work too well.
+21266,9,2,However, once I downloaded the full version it didn't work too well.
+21266,10,2,However, once I downloaded the full version it didn't work too well.
+21300,NULL,1,This product is intended to help you to pass the official Driving Test Theory Exam, Road Test, and even an International Driver License.
+21463,NULL,1,However, they have failed to combat a local virus from my country Mr Blank!
+21801,NULL,1,Font colors and background colors are limited to a pallet of 91 shades of colors and custom colors are not available.
+21802,5,2,However, for most people this is more color than you will need in a word processor program.
+21802,9,2,However, for most people this is more color than you will need in a word processor program.
+21802,10,2,However, for most people this is more color than you will need in a word processor program.
+21829,2,1,Installing the program is simple and only takes about a minute after you download it.
+21829,3,1,Installing the program is simple and only takes about a minute after you download it.
+21829,9,1,Installing the program is simple and only takes about a minute after you download it.
+21855,NULL,3,So this way you can draw building with a few floors.
+21951,2,3,However, I plugged the receiver into the USB port, started the program, clicked on "locate me," and PRESTO--a neat red circle very quickly triangulated my position on a picnic table in my in-laws' backyard.
+21951,3,3,However, I plugged the receiver into the USB port, started the program, clicked on "locate me," and PRESTO--a neat red circle very quickly triangulated my position on a picnic table in my in-laws' backyard.
+21951,9,3,However, I plugged the receiver into the USB port, started the program, clicked on "locate me," and PRESTO--a neat red circle very quickly triangulated my position on a picnic table in my in-laws' backyard.
+22008,10,2,All I've been able to do is zoom in and out.
+22012,NULL,2,), or smartphone.
+22022,NULL,1,My wife and I were just out driving earlier, when I decided, on a whim, to go to what we only knew as "Saddleback," a neat mountainous area in Orange County, CA where there is a good 25-mile trail.
+22034,NULL,3,We finally settled on a semi-natural area with a botanical preserve, museum, and probably the nicest "YMCA" I've ever seen.
+22048,NULL,1,It shows up under "My Computer" and the computer actually thinks that this drive is a real CD drive.
+22098,10,2,As you can see, for most users, the Media Center and Tablet PC support is not a very convincing reason to move from Basic to Premium.
+22098,11,1,As you can see, for most users, the Media Center and Tablet PC support is not a very convincing reason to move from Basic to Premium.
+22098,20,2,As you can see, for most users, the Media Center and Tablet PC support is not a very convincing reason to move from Basic to Premium.
+22113,NULL,3,That's just a lot of info!
+22117,NULL,2,Windows Tablet and Touch Technology requires a Tablet PC or a touch screen.
+22135,4,2,However, if you are doing a fresh install this way (booting from the DVD), you the only choice you have is a Custom install.
+22135,9,2,However, if you are doing a fresh install this way (booting from the DVD), you the only choice you have is a Custom install.
+22135,10,2,However, if you are doing a fresh install this way (booting from the DVD), you the only choice you have is a Custom install.
+22139,4,2,Thankfully, unlike Windows XP's unfriendly F6-hell, you can now install drivers from CD, DVD, or even a USB Flash Drive.
+22139,5,2,Thankfully, unlike Windows XP's unfriendly F6-hell, you can now install drivers from CD, DVD, or even a USB Flash Drive.
+22139,9,2,Thankfully, unlike Windows XP's unfriendly F6-hell, you can now install drivers from CD, DVD, or even a USB Flash Drive.
+22165,4,2,Of course, who can forget the 3D flip version of Alt-Tab, which is Windows-Tab.
+22165,10,2,Of course, who can forget the 3D flip version of Alt-Tab, which is Windows-Tab.
+22168,NULL,3,Then there is the start-menu.
+22193,4,2,This makes the scaling icons much more useful for someone trying to find a particular video or photo.
+22193,5,2,This makes the scaling icons much more useful for someone trying to find a particular video or photo.
+22193,9,2,This makes the scaling icons much more useful for someone trying to find a particular video or photo.
+22193,10,2,This makes the scaling icons much more useful for someone trying to find a particular video or photo.
+22229,NULL,1,That's good news since before this feature, I had to leave it on overnight to record shows when I want to go to bed during a recording.
+22268,5,1,AOL Radio's audio quality sounds as good as or better than the high-quality setting of Launch's paid account.
+22268,9,1,AOL Radio's audio quality sounds as good as or better than the high-quality setting of Launch's paid account.
+22268,18,1,AOL Radio's audio quality sounds as good as or better than the high-quality setting of Launch's paid account.
+22271,5,2,I haven't played around with Vista MCE's online programs too much, but MovieLink seems to be up there.
+22271,6,2,I haven't played around with Vista MCE's online programs too much, but MovieLink seems to be up there.
+22271,9,2,I haven't played around with Vista MCE's online programs too much, but MovieLink seems to be up there.
+22283,5,1,If Microsoft can make the video a little bigger and have it on the bottom left more consistantly (like it was in MCE2005), it'd be much better.
+22283,9,1,If Microsoft can make the video a little bigger and have it on the bottom left more consistantly (like it was in MCE2005), it'd be much better.
+22368,4,2,Even then, it is no where near the bandwidth of the network interface's capacity.
+22368,9,2,Even then, it is no where near the bandwidth of the network interface's capacity.
+22401,4,2,Despite what the press and Microsoft say, Vista really have no place in most people's homes or offices yet.
+22401,5,2,Despite what the press and Microsoft say, Vista really have no place in most people's homes or offices yet.
+22401,9,2,Despite what the press and Microsoft say, Vista really have no place in most people's homes or offices yet.
+22401,10,2,Despite what the press and Microsoft say, Vista really have no place in most people's homes or offices yet.
+22475,2,2,It took me about 30 minutes to just figure out how to get directions from A to B. Browsing the map is impossible.
+22475,3,2,It took me about 30 minutes to just figure out how to get directions from A to B. Browsing the map is impossible.
+22475,9,2,It took me about 30 minutes to just figure out how to get directions from A to B. Browsing the map is impossible.
+22494,NULL,2,The beginner level is aptly named "Baby" which includes: First the scene of Reader Rabbit chasing a female mouse named Matt and she hides in a toy chest.
+22537,2,3,An eventual must for the serious photoshow producer requring the whistles and flutes of frame-by-frame tweaking, but not for the inexperienced beginner.
+22537,10,3,An eventual must for the serious photoshow producer requring the whistles and flutes of frame-by-frame tweaking, but not for the inexperienced beginner.
+22549,NULL,2,But, my extensive training in IT, Network Security, etc.
+22557,NULL,2,You name it, I have tried it: 4 gigs RAM?
+22557,NULL,1,You name it, I have tried it: 4 gigs RAM?
+22600,NULL,2,UDW2 allowed for me to author the DVD and when I publish it, UDW2 automatically transcodes the video from multiple formats into a DVD ready VOB file.
+22634,4,2,the long and short is turbotax gets it done, its thorough, and it helps find you loads of deductions.
+22634,4,3,the long and short is turbotax gets it done, its thorough, and it helps find you loads of deductions.
+22634,5,2,the long and short is turbotax gets it done, its thorough, and it helps find you loads of deductions.
+22634,7,3,the long and short is turbotax gets it done, its thorough, and it helps find you loads of deductions.
+22634,9,2,the long and short is turbotax gets it done, its thorough, and it helps find you loads of deductions.
+22634,9,3,the long and short is turbotax gets it done, its thorough, and it helps find you loads of deductions.
+22634,20,3,the long and short is turbotax gets it done, its thorough, and it helps find you loads of deductions.
+22870,5,2,Other Presets that I really like and use the most are, Random Trigger, Sakral, Square Pad, and Super Sync Lead.
+22870,9,2,Other Presets that I really like and use the most are, Random Trigger, Sakral, Square Pad, and Super Sync Lead.
+23116,2,3,The program also will answer your questions of "what's my next appointment", "What is the battery level", "What is the signal strength", etc.
+23205,10,1,I am not a photographer, just a novice but with Photoshop I can make even good pictures better.
+23231,NULL,1,We knew what sites we wanted to visit, and we let DeLorme determine the route.
+23269,5,3,Kidware's Visual Basic For Kids is an excellent way for kids to learn how to program in Visual Basic.
+23269,9,3,Kidware's Visual Basic For Kids is an excellent way for kids to learn how to program in Visual Basic.
+23352,4,2,Service Pack Two includes countless security enhancements and bug fixes making this OS highly stable and solid.
+23352,5,2,Service Pack Two includes countless security enhancements and bug fixes making this OS highly stable and solid.
+23352,9,2,Service Pack Two includes countless security enhancements and bug fixes making this OS highly stable and solid.
+23362,4,2,No matter what anyone might say, there are more games that work on XP then any other operating system of any kind anywhere.
+23362,9,2,No matter what anyone might say, there are more games that work on XP then any other operating system of any kind anywhere.
+23414,NULL,1,Also, squiggly lines similar to those displayed under words in Microsoft Word are used to show undefined variables, unused variables, and invalid names and expressions.
+23423,5,3,The Jumpstart series is probably the best one that I have come across.
+23423,9,3,The Jumpstart series is probably the best one that I have come across.
+23434,NULL,2,As a result, Ive been looking at GPS systems for several months.
+23441,2,3,The GPS system is pretty straightforward to use.
+23441,9,3,The GPS system is pretty straightforward to use.
+23498,NULL,1,There is even a parents section where you can track their progress and see where they are strong and where they may need some improvement.
+23561,5,1,The Word Perfect program I though was cool and convenient but The Print Shop Business Card Creator is a little bit more unique and gave me a more satisfying feeling after all was done.
+23561,9,1,The Word Perfect program I though was cool and convenient but The Print Shop Business Card Creator is a little bit more unique and gave me a more satisfying feeling after all was done.
+23570,NULL,1,From the art gallery, you can choose art or photos to add to your business card.
+23653,NULL,2,You can rotate your font or image, add color and outlines, and add effects like embossing, shadow or frames.
+23744,2,1,I grabbed the basic concept through lessons from a professional piano player but still I never really learned how to play.
+23744,9,1,I grabbed the basic concept through lessons from a professional piano player but still I never really learned how to play.
+23752,NULL,1,I wanted the ability to read and sing at the same time.
+23756,NULL,3,eMedia Piano & Keyboard came on a disc that you insert into your computer and it downloads an interactive program onto your Windows PC or Mac.
+24042,NULL,2,You can take a floorplan from image and lay it out to scale on your working surface and then use the wall drawing tool to recreate it very accurately.
+24079,4,2,Most of the programs wouldn't run under vista and even with Aero off (the fancy graphics for the interface) performance was absolutely awful.
+24079,5,2,Most of the programs wouldn't run under vista and even with Aero off (the fancy graphics for the interface) performance was absolutely awful.
+24079,9,2,Most of the programs wouldn't run under vista and even with Aero off (the fancy graphics for the interface) performance was absolutely awful.
+24079,18,2,Most of the programs wouldn't run under vista and even with Aero off (the fancy graphics for the interface) performance was absolutely awful.
+24097,5,1,A few new games built in -these are just a few things I liked that you will deal with everyday in vista PROBLEMS I encountered: 1.
+24097,9,1,A few new games built in -these are just a few things I liked that you will deal with everyday in vista PROBLEMS I encountered: 1.
+24147,4,2,For me this was one of the biggest improvements of the program and made it worth purchasing as I find that I have to move files around a lot with XP, because I was unable to save them exactly where I wanted to from my own username.
+24147,5,2,For me this was one of the biggest improvements of the program and made it worth purchasing as I find that I have to move files around a lot with XP, because I was unable to save them exactly where I wanted to from my own username.
+24147,5,1,For me this was one of the biggest improvements of the program and made it worth purchasing as I find that I have to move files around a lot with XP, because I was unable to save them exactly where I wanted to from my own username.
+24147,9,2,For me this was one of the biggest improvements of the program and made it worth purchasing as I find that I have to move files around a lot with XP, because I was unable to save them exactly where I wanted to from my own username.
+24147,9,1,For me this was one of the biggest improvements of the program and made it worth purchasing as I find that I have to move files around a lot with XP, because I was unable to save them exactly where I wanted to from my own username.
+24149,4,2,You can now choose how large you want the icons for a picture to be, you can have them super small, or super huge where you can actually tell what the picture is.
+24149,9,2,You can now choose how large you want the icons for a picture to be, you can have them super small, or super huge where you can actually tell what the picture is.
+24149,18,2,You can now choose how large you want the icons for a picture to be, you can have them super small, or super huge where you can actually tell what the picture is.
+24169,4,1,Most of my games would play great, but would reach a point and then have an error randomly.
+24169,5,1,Most of my games would play great, but would reach a point and then have an error randomly.
+24169,9,1,Most of my games would play great, but would reach a point and then have an error randomly.
+24352,2,1,For example, nowhere in Rosetta Stone do you actually learn how to say useful things.
+24352,5,2,For example, nowhere in Rosetta Stone do you actually learn how to say useful things.
+24352,9,2,For example, nowhere in Rosetta Stone do you actually learn how to say useful things.
+24352,9,1,For example, nowhere in Rosetta Stone do you actually learn how to say useful things.
+24738,4,2,There are even built in quizzes that assess learning by embedding questions into the program.
+24738,5,2,There are even built in quizzes that assess learning by embedding questions into the program.
+24738,9,2,There are even built in quizzes that assess learning by embedding questions into the program.
+24740,10,3,My library is behind a firewall so unfortunately, I can't demo my tutorial, but here is another library demo that is very similar using CAMTASIA http://www.library.ubc.ca/scieng/videos/library_research.html The software package comes in a box with 1 CD.
+24831,NULL,2,My System (click on blue will take you to Reviews I have done) MSI K8N NEO Platinum AMD Sempron X64 3300 2 512meg DDR Kingston PC3200 Maxtor Diamond 10 S ATA 80 gig Harddrive WD 1200 JB MicroAdvantage DVD - RW Dual-L XFX GeForce 7300 256 meg DDR AverMedia UltraTV 1500 Ultra V-series 500watt PSU Ultra Media Reader XP Pro SP2/Vista Ultimate RTM MS Optical Mouse(USB) Hitachi 19" CRT Acer AL1717BBM LCD 17"monitor Is Ultimate really the Ultimate?
+24850,4,2,Of course a dual-core cpu with dual-channel will give the best experience of all.
+24850,5,2,Of course a dual-core cpu with dual-channel will give the best experience of all.
+24850,9,2,Of course a dual-core cpu with dual-channel will give the best experience of all.
+24850,10,2,Of course a dual-core cpu with dual-channel will give the best experience of all.
+24853,10,3,Vista Business/Enterprise Now I did not beta test this.
+24880,NULL,2,If at all possible is always a good idea to download system and hardware drivers compatible with Vista.
+24890,NULL,1,Also the DVD includes more drivers than were on any other Windows version.
+24918,NULL,2,It will ask for a single user name and optional password.
+24920,NULL,3,It can be changed later.
+24922,NULL,2,Then you will setup the time and local date.
+24922,NULL,1,Then you will setup the time and local date.
+24985,5,2,One thing if like me you like to watch TV and do other things like write or surf the internet, when Media Center is at full screen-it captures the pointer so it can not be used otherwise.
+24985,9,2,One thing if like me you like to watch TV and do other things like write or surf the internet, when Media Center is at full screen-it captures the pointer so it can not be used otherwise.
+24985,10,2,One thing if like me you like to watch TV and do other things like write or surf the internet, when Media Center is at full screen-it captures the pointer so it can not be used otherwise.
+25017,4,2,The current system, this is on runs very nicely with Vista.
+25017,5,2,The current system, this is on runs very nicely with Vista.
+25017,9,2,The current system, this is on runs very nicely with Vista.
+25037,NULL,1,Just have another partition or another harddrive.
+25721,6,2,This system will eventually replace XP, but it is going to take some time.
+25749,NULL,1,Subjectivity uber alles.
+25819,NULL,2,Where's the beef?!?
+25830,NULL,1,He chuckled and shook his head.
+26120,2,2,The controls are quite clear and the choices of setup are pretty intuitive and uncomplicated.
+26120,5,2,The controls are quite clear and the choices of setup are pretty intuitive and uncomplicated.
+26120,9,2,The controls are quite clear and the choices of setup are pretty intuitive and uncomplicated.
+26129,NULL,1,At the end of each story is a picture of a lightbulb.
+26162,19,2,There are tons of new vocabulary words and definitions to learn throughout the book.
+26195,5,2,The small pocket size GPS has so many great features.
+26195,7,2,The small pocket size GPS has so many great features.
+26195,9,2,The small pocket size GPS has so many great features.
+26226,NULL,2,Each channel is given its own sub-folder in the MP3 Recorder folder that's created in My Music and each track is created in a separate file.
+26243,4,2,The typical computer user will probably have no problem, but a novice might be confused by the oddly worded manual and the few control buttons which are still in German.
+26243,5,2,The typical computer user will probably have no problem, but a novice might be confused by the oddly worded manual and the few control buttons which are still in German.
+26243,9,2,The typical computer user will probably have no problem, but a novice might be confused by the oddly worded manual and the few control buttons which are still in German.
+26243,10,2,The typical computer user will probably have no problem, but a novice might be confused by the oddly worded manual and the few control buttons which are still in German.
+26356,NULL,3,I took a chance on buying it for home school.
+26425,6,2,The novice might be surprised that Vista isn't all that different from XP at first sight.
+26425,10,2,The novice might be surprised that Vista isn't all that different from XP at first sight.
+26444,NULL,2,Given that each has a set of problems like activation and patches, it will take me some time to fill you in on each software I am using.
+26525,4,2,It was easy to install and virtually configuration free.
+26525,5,2,It was easy to install and virtually configuration free.
+26525,9,2,It was easy to install and virtually configuration free.
+26553,2,3,Conclusion: The application makes hands-free operation of a PDA phone or smartphone feasible and easy.
+26553,9,3,Conclusion: The application makes hands-free operation of a PDA phone or smartphone feasible and easy.
+26553,12,3,Conclusion: The application makes hands-free operation of a PDA phone or smartphone feasible and easy.
+26627,NULL,1,maybe better to stay with AVG by G r i soft plus use Windows defender plus the built in system utilities.
+26629,NULL,3,not sure of the firewall program effectiveness.
+26672,NULL,3,Tip: Shoot blond and grey-haired people against a blue screen, everyone else against a green screen!
+27160,9,3,Usability, on the other hand, is only superficially affected by looks.
+27160,18,3,Usability, on the other hand, is only superficially affected by looks.
+27263,4,2,My Internet connection was detected automatically and Firefox worked like a dream :-D. I found that i was able to access my Windows NTSC format Partition and play files from it such as MP3s and Videos.
+27263,5,2,My Internet connection was detected automatically and Firefox worked like a dream :-D. I found that i was able to access my Windows NTSC format Partition and play files from it such as MP3s and Videos.
+27263,9,2,My Internet connection was detected automatically and Firefox worked like a dream :-D. I found that i was able to access my Windows NTSC format Partition and play files from it such as MP3s and Videos.
+27334,NULL,1,When I first click on the program button on my desktop, it takes me immediately to the family group sheet I was previously working on.
+27336,NULL,3,There are places to put birth dates, death dates, places of birth, places of death, and the marriage information of the parents.
+27565,4,2,This makes it much easier to manage organizing and trimming smaller clips of video.
+27565,5,2,This makes it much easier to manage organizing and trimming smaller clips of video.
+27565,9,2,This makes it much easier to manage organizing and trimming smaller clips of video.
+27900,11,1,When I called them on it, the laughed and said that their marketing department was pretty aggresive.
+27930,4,1,Sometimes a floating point error is specified, which could very well be the fault of the processor -- later AMD's are supposed to handle floating points better.
+27930,9,1,Sometimes a floating point error is specified, which could very well be the fault of the processor -- later AMD's are supposed to handle floating points better.
+27990,NULL,1,The file I tried it on was a legal-sized PDF of sunrise and sunset times for a year.
+27998,NULL,1,The game teaches early reading, early math, writing, and patterns.
+28123,5,1,My son (three now) loves the games contained on this computer game.
+28123,9,1,My son (three now) loves the games contained on this computer game.
+28137,5,1,I'm not quite convinced it teaches good counting skills, but again, I'm not worried about that, as I quit encouraging my son's math skills when he counted to twenty at age two and started adding 1+1, 2+2, soon after... (I figure if I encourage him, he'll eclipse me before Kindergarten.
+28137,9,1,I'm not quite convinced it teaches good counting skills, but again, I'm not worried about that, as I quit encouraging my son's math skills when he counted to twenty at age two and started adding 1+1, 2+2, soon after... (I figure if I encourage him, he'll eclipse me before Kindergarten.
+28137,10,1,I'm not quite convinced it teaches good counting skills, but again, I'm not worried about that, as I quit encouraging my son's math skills when he counted to twenty at age two and started adding 1+1, 2+2, soon after... (I figure if I encourage him, he'll eclipse me before Kindergarten.
+28137,15,1,I'm not quite convinced it teaches good counting skills, but again, I'm not worried about that, as I quit encouraging my son's math skills when he counted to twenty at age two and started adding 1+1, 2+2, soon after... (I figure if I encourage him, he'll eclipse me before Kindergarten.
+28210,NULL,1,Finereader reads 179 languages (based on character sets) and has 36 languages with dictionary and spell-check support.
+28215,NULL,1,You have options to treat barcodes as images or read their values.
+28216,4,2,DETAILS Documentation: [****-] - The included 50 page User Guide covers the basics well enough, but overall layout and structure make it a little hard to use as a reference.
+28216,5,2,DETAILS Documentation: [****-] - The included 50 page User Guide covers the basics well enough, but overall layout and structure make it a little hard to use as a reference.
+28216,9,2,DETAILS Documentation: [****-] - The included 50 page User Guide covers the basics well enough, but overall layout and structure make it a little hard to use as a reference.
+28248,5,1,I don't remember the conditions, but using the OEM version included with my Epson scanner, the upgrade price was very reasonable.
+28248,9,1,I don't remember the conditions, but using the OEM version included with my Epson scanner, the upgrade price was very reasonable.
+28541,NULL,2,Our branch office locations make the most use of the stored forms, which have been modified and or created by developers within the organization utilizing the Design Mode of InfoPath 2003.
+28589,4,2,Storyteller is best with Epson printers for the only reason that the paper is designed for their ink.
+28589,9,2,Storyteller is best with Epson printers for the only reason that the paper is designed for their ink.
+28608,NULL,1,(i.e Canon's printers) The internal pages are relatively protected during storage, while the cover might be exposed to more tear-n-wear and especially UV.
+28621,NULL,3,So there is no risk in giving it a try, should you plan to upgrade your printer anyway.
+28732,6,3,Even at the basic POS level the number of reports is staggering.
+28732,8,3,Even at the basic POS level the number of reports is staggering.
+28732,16,3,Even at the basic POS level the number of reports is staggering.
+28761,NULL,2,You can of course do this with QB POS ( or I wouldnt have bothered to mention it).
+28771,5,3,Some other nice features are the ability to suspend a sale for later collection.
+28771,9,3,Some other nice features are the ability to suspend a sale for later collection.
+28901,4,2,You do need Windows 95 or higher to install this and having it run; the old computer had Windows 98 SE and I had no problems what so ever with this running on it.
+28901,5,2,You do need Windows 95 or higher to install this and having it run; the old computer had Windows 98 SE and I had no problems what so ever with this running on it.
+28901,10,2,You do need Windows 95 or higher to install this and having it run; the old computer had Windows 98 SE and I had no problems what so ever with this running on it.
+28928,NULL,1,Most of the focus of the workbook is on spelling but there are some cool counting sections and lots of things that they can color in.
+28955,NULL,1,Now, I know just enough about computers to get into trouble, but I also know when Im in way over my head.
+28967,NULL,2,Features I will limit my comments to the features that I used, which were the Disk Commander, Crash Analysis, System Restore, and Locksmith.
+29029,NULL,1,I've used it for writing e-mail, writing documents, writing instant messages, writing computer (VHDL) code, and, of course, writing this review.
+29031,5,2,Sadly it is still a speech recognition program and not mind reading software.
+29031,9,2,Sadly it is still a speech recognition program and not mind reading software.
+29100,6,3,Entry level does not mean it is crippled beyond the 75 user limit and the single server requirement.
+29103,5,1,My Dell package, including the operating system was only $1500, and that was for a server that for small office use is quite robust.
+29103,9,1,My Dell package, including the operating system was only $1500, and that was for a server that for small office use is quite robust.
+29217,NULL,1,You use it to create applications that perform file management, database activity, and graphics rendering.
+29279,NULL,1,Important: The manufacturer currently offers a special for $79.95 (download) at www.ononesoftware.com (that's nearly 50%).
+29332,NULL,2,The one use taught by OnOne is to use the special .STN format for compact storage and then use Genuine Fractals to return to print resolution.
+29377,10,2,And, how many kids immediately think "cod" when they see a fish?
+29511,4,2,One annoying trait is the delay of your start up.
+29511,5,2,One annoying trait is the delay of your start up.
+29511,9,2,One annoying trait is the delay of your start up.
+29559,5,2,What I think stinks is that you pay for this thing, then when you go to add effects, you have to pay extra to unlock certain features...what the hell is that all about????!!
+29559,6,1,What I think stinks is that you pay for this thing, then when you go to add effects, you have to pay extra to unlock certain features...what the hell is that all about????!!
+29559,8,1,What I think stinks is that you pay for this thing, then when you go to add effects, you have to pay extra to unlock certain features...what the hell is that all about????!!
+29559,9,2,What I think stinks is that you pay for this thing, then when you go to add effects, you have to pay extra to unlock certain features...what the hell is that all about????!!
+29559,16,1,What I think stinks is that you pay for this thing, then when you go to add effects, you have to pay extra to unlock certain features...what the hell is that all about????!!
+29559,22,1,What I think stinks is that you pay for this thing, then when you go to add effects, you have to pay extra to unlock certain features...what the hell is that all about????!!
+29574,2,1,I struggled, called quicken for help, and finally had to file for an extension on my 2005 taxes.
+29574,9,1,I struggled, called quicken for help, and finally had to file for an extension on my 2005 taxes.
+29574,11,1,I struggled, called quicken for help, and finally had to file for an extension on my 2005 taxes.
+29595,5,3,Afterwards, problems, problems and more incompatibilites.
+29595,8,3,Afterwards, problems, problems and more incompatibilites.
+29595,9,3,Afterwards, problems, problems and more incompatibilites.
+29595,13,3,Afterwards, problems, problems and more incompatibilites.
+29595,16,3,Afterwards, problems, problems and more incompatibilites.
+29595,22,3,Afterwards, problems, problems and more incompatibilites.
+29657,4,2,If the colors are right, you can make informed choices when correcting photos.
+29657,18,2,If the colors are right, you can make informed choices when correcting photos.
+29685,16,2,Have fun!
+29685,17,2,Have fun!
+29685,20,2,Have fun!
+29993,4,2,Speed Disk may not be a best in category program by itself but is far better at optimization than Disk Defragmenter.
+29993,4,3,Speed Disk may not be a best in category program by itself but is far better at optimization than Disk Defragmenter.
+29993,5,2,Speed Disk may not be a best in category program by itself but is far better at optimization than Disk Defragmenter.
+29993,5,3,Speed Disk may not be a best in category program by itself but is far better at optimization than Disk Defragmenter.
+29993,9,2,Speed Disk may not be a best in category program by itself but is far better at optimization than Disk Defragmenter.
+29993,9,3,Speed Disk may not be a best in category program by itself but is far better at optimization than Disk Defragmenter.
+30044,NULL,2,Cleansweep attempts to avoid this by removing all pieces of an installed program including files, folders, and shortcuts and tries to avoid removal of any shared DLLs.
+30066,10,2,I virtually never use any of the three outside of playing with System Optimizer and CheckIt Diagnostics just to see how they function.
+30087,5,1,As with most of todays retail software, Norton System Works requires the use of an installation key, which in this case is unfortunately located on a paper CD sleeve.
+30087,9,1,As with most of todays retail software, Norton System Works requires the use of an installation key, which in this case is unfortunately located on a paper CD sleeve.
+30093,5,1,Support Symantecs consumer tech support has been notoriously awful.
+30093,9,1,Support Symantecs consumer tech support has been notoriously awful.
+30093,11,1,Support Symantecs consumer tech support has been notoriously awful.
+30133,5,2,This is a review of the GuitarPort (a hardware device which acts as an interface between your guitar and computer) sold bundled with the excellent RiffTracker music recording software.
+30133,9,2,This is a review of the GuitarPort (a hardware device which acts as an interface between your guitar and computer) sold bundled with the excellent RiffTracker music recording software.
+30153,5,2,Anyway, the GuitarPort is tons of fun and well worth it's affordable cost!
+30153,8,2,Anyway, the GuitarPort is tons of fun and well worth it's affordable cost!
+30153,9,2,Anyway, the GuitarPort is tons of fun and well worth it's affordable cost!
+30153,13,2,Anyway, the GuitarPort is tons of fun and well worth it's affordable cost!
+30153,16,2,Anyway, the GuitarPort is tons of fun and well worth it's affordable cost!
+30153,17,2,Anyway, the GuitarPort is tons of fun and well worth it's affordable cost!
+30228,5,3,Then came Quark 6.5, a big improvement.
+30228,9,3,Then came Quark 6.5, a big improvement.
+30316,NULL,1,The six categories include clutter, Speed, Safety, Fitness, Update, and Active Care.
+30333,4,1,For example, don't want the numeral lock key to come on every time you start Windows XP?
+30333,9,1,For example, don't want the numeral lock key to come on every time you start Windows XP?
+30335,NULL,2,Want to remove or even hide the Control Panel option on your start menu for security reasons?
+30371,2,3,The word I've heard people use to describe Indesign most often is "intuitive", however I've found that Quark is the easier program to learn and use, mainly because it is simpler.
+30371,9,3,The word I've heard people use to describe Indesign most often is "intuitive", however I've found that Quark is the easier program to learn and use, mainly because it is simpler.
